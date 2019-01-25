@@ -168,17 +168,20 @@
       <taskConf>main/readman/A - Enlarge GCD.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A - Tricky Sum" type="Task" factoryName="Task">
       <taskConf>main/readman/A - Tricky Sum.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
-      <taskConf>main/readman/B - Little C Loves 3 II.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -186,17 +189,20 @@
       <taskConf>main/readman/B - Queries on a String.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
       <taskConf>main/readman/C - Nearest vectors.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Region Separation" type="Task" factoryName="Task">
-      <taskConf>main/readman/C - Region Separation.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -204,11 +210,13 @@
       <taskConf>main/readman/D - Igor In the Museum.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Intervals of Intervals" type="Task" factoryName="Task">
-      <taskConf>main/readman/D - Intervals of Intervals.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -216,17 +224,20 @@
       <taskConf>main/readman/E - Chocolate Bar.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Little C Loves 3 III" type="Task" factoryName="Task">
-      <taskConf>main/readman/E - Little C Loves 3 III.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - Cut Length" type="Task" factoryName="Task">
       <taskConf>main/readman/F - Cut Length.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
