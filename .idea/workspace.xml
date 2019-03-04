@@ -2,19 +2,320 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main/readman/A - Tricky Sum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/B - Queries on a String.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/C - Nearest vectors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/D - Igor In the Museum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/E - Chocolate Bar.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/F - Cut Length.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chelper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chelper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/AbstractTreapNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/AbstractTreapNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/CollectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/CollectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/FenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/KDTree2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/KDTree2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/ReadOnlyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/ReadOnlyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/TreapNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/TreapNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/comparators/ReverseComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/comparators/ReverseComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/filter/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/filter/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/function/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/function/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intcollection/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intcollection/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intcollection/IntHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intcollection/IntHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intcollection/IntSplaySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intcollection/IntSplaySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intcollection/IntTreapArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intcollection/IntTreapArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intcollection/IntTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intcollection/IntTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intcollection/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intcollection/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/ArrayBasedIntervalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/ArrayBasedIntervalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/HeavyLightDecomposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/HeavyLightDecomposition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/IntervalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/IntervalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/LCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/LCA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/LongIntervalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/LongIntervalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/ReadOnlyIntervalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/ReadOnlyIntervalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/intervaltree/SumIntervalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/intervaltree/SumIntervalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/iss/IndependentSetSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/iss/IndependentSetSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/iss/ListIndependentSetSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/iss/ListIndependentSetSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/iss/RecursiveIndependentSetSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/iss/RecursiveIndependentSetSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/map/CPPMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/map/CPPMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/map/CPPTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/map/CPPTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/map/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/map/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/map/EHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/map/EHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/map/Indexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/map/Indexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/map/TreeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/map/TreeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/set/EHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/set/EHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/set/MultiSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/set/MultiSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/set/PersistentSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/set/PersistentSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/set/PersistentTreapSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/set/PersistentTreapSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/collections/set/TreapSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/collections/set/TreapSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/concurrency/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/concurrency/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/concurrency/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/concurrency/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/concurrency/TaskFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/concurrency/TaskFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/datetime/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/datetime/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/datetime/DateTimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/datetime/DateTimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/datetime/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/datetime/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/datetime/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/datetime/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/CharAbstractStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/CharAbstractStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/CharCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/CharCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/CharReversableCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/CharReversableCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/CharStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/CharStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/DoubleAbstractStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/DoubleAbstractStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/DoubleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/DoubleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/DoubleReversableCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/DoubleReversableCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/DoubleStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/DoubleStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/IntAbstractStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/IntAbstractStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/IntCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/IntCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/IntReversableCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/IntReversableCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/IntStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/IntStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/LongAbstractStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/LongAbstractStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/LongCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/LongCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/LongReversableCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/LongReversableCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/LongStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/LongStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/comparator/CharComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/comparator/CharComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/comparator/DoubleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/comparator/DoubleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/comparator/IntComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/comparator/IntComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/comparator/LongComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/comparator/LongComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/comparator/ReverseComparators.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/comparator/ReverseComparators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharCharPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharCharPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharCharToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharCharToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharCharToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharCharToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharCharToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharCharToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharCharToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharCharToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharDoublePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharDoublePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharDoubleToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharDoubleToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharDoubleToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharDoubleToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharDoubleToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharDoubleToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharDoubleToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharDoubleToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharIntPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharIntPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharIntToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharIntToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharIntToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharIntToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharIntToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharIntToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharIntToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharIntToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharLongPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharLongPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharLongToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharLongToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharLongToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharLongToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharLongToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharLongToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharLongToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharLongToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/CharToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/CharToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleCharPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleCharPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleCharToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleCharToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleCharToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleCharToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleCharToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleCharToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleCharToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleCharToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleDoublePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleDoublePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleDoubleToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleDoubleToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleDoubleToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleDoubleToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleDoubleToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleDoubleToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleDoubleToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleDoubleToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleIntPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleIntPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleIntToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleIntToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleIntToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleIntToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleIntToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleIntToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleIntToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleIntToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleLongPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleLongPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleLongToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleLongToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleLongToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleLongToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleLongToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleLongToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleLongToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleLongToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/DoubleToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/DoubleToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntCharPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntCharPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntCharToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntCharToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntCharToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntCharToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntCharToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntCharToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntCharToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntCharToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntDoublePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntDoublePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntDoubleToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntDoubleToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntDoubleToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntDoubleToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntDoubleToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntDoubleToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntDoubleToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntDoubleToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntIntPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntIntPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntIntToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntIntToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntIntToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntIntToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntIntToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntIntToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntIntToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntIntToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntLongPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntLongPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntLongToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntLongToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntLongToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntLongToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntLongToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntLongToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntLongToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntLongToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/IntToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/IntToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongCharPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongCharPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongCharToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongCharToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongCharToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongCharToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongCharToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongCharToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongCharToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongCharToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongDoublePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongDoublePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongDoubleToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongDoubleToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongDoubleToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongDoubleToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongDoubleToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongDoubleToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongDoubleToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongDoubleToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongIntPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongIntPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongIntToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongIntToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongIntToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongIntToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongIntToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongIntToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongIntToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongIntToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongLongPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongLongPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongLongToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongLongToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongLongToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongLongToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongLongToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongLongToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongLongToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongLongToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongToCharFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongToCharFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongToDoubleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongToDoubleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongToIntFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongToIntFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/function/LongToLongFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/function/LongToLongFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/hashing/CharHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/hashing/CharHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/hashing/DoubleHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/hashing/DoubleHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/hashing/IntHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/hashing/IntHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/hashing/LongHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/hashing/LongHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/iterator/CharIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/iterator/CharIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/iterator/DoubleIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/iterator/DoubleIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/iterator/IntIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/iterator/IntIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/iterator/LongIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/iterator/LongIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/CharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/CharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/CharArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/CharArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/CharList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/CharList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/DoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/DoubleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/DoubleArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/DoubleArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/DoubleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/DoubleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/IntArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/IntArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/LongArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/LongArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/LongArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/LongArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/LongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/LongList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/list/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/list/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/CharCharPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/CharCharPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/CharDoublePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/CharDoublePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/CharIntPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/CharIntPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/CharLongPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/CharLongPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/CharVPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/CharVPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/DoubleCharPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/DoubleCharPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/DoubleDoublePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/DoubleDoublePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/DoubleIntPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/DoubleIntPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/DoubleLongPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/DoubleLongPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/DoubleVPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/DoubleVPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/IntCharPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/IntCharPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/IntDoublePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/IntDoublePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/IntIntPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/IntIntPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/IntLongPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/IntLongPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/IntVPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/IntVPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/KCharPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/KCharPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/KDoublePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/KDoublePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/KIntPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/KIntPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/KLongPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/KLongPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/LongCharPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/LongCharPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/LongDoublePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/LongDoublePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/LongIntPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/LongIntPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/LongLongPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/LongLongPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/pair/LongVPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/pair/LongVPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/CharArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/CharArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/CharQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/CharQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/DoubleArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/DoubleArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/DoubleQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/DoubleQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/IntArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/IntArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/IntQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/IntQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/LongArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/LongArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/queue/LongQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/queue/LongQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/CharHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/CharHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/CharSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/CharSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/DoubleHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/DoubleHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/DoubleSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/DoubleSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/IntHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/IntHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/IntSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/IntSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/LongHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/LongHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/generated/collections/set/LongSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/generated/collections/set/LongSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Angle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Angle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/GeometryUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/GeometryUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Quaternion.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Quaternion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Ray.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Ray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/geometry/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/geometry/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/BidirectionalGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/BidirectionalGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/DFSOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/DFSOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/GraphAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/GraphAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/MaxFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/MaxFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/MinCostFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/MinCostFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/MinimalSpanningTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/MinimalSpanningTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/ShortestDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/ShortestDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/graph/StronglyConnectedComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/graph/StronglyConnectedComponents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/io/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/io/InputReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/io/OutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/io/OutputWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/ExtendedRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/ExtendedRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/MapVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/MapVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/MiscUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/MiscUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/PowerOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/PowerOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/misc/SimpleMapVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/misc/SimpleMapVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/BooleanMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/BooleanMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/Combinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/DoubleUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/DoubleUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/FastFourierTransform.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/FastFourierTransform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/IntegerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/IntegerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/Interpolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/Interpolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/LongInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/LongInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/MultiplicativeFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/MultiplicativeFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/NumberIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/NumberIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/PrimeFastFourierTransform.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/PrimeFastFourierTransform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/numbers/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/numbers/Rational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/AbstractStringHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/AbstractStringHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/CompositeStringHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/CompositeStringHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/ExpandableStringHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/ExpandableStringHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/SimpleStringHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/SimpleStringHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/StringHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/StringHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/SubstringAutomaton.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/SubstringAutomaton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/SubstringStringHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/SubstringStringHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/SuffixAutomaton.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/SuffixAutomaton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ds/string/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/egork/string/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/A - Tricky Sum.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/B - Queries on a String.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/C - Nearest vectors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/D - Igor In the Museum.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/E - Chocolate Bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/F - Cut Length.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Enlarge GCD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Tricky Sum.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/B - Queries on a String.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Nearest vectors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/D - Igor In the Museum.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E - Chocolate Bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/F - Cut Length.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,44 +326,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chelper.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java">
+        <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="224">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/ds/collections/iss/IndependentSetSystem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TaskClass.template">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeforces.iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -79,19 +349,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main/TaskA.java" />
-        <option value="$PROJECT_DIR$/chelper.properties" />
         <option value="$PROJECT_DIR$/lib/ds/collections/iss/IndependentSetSystem.java" />
+        <option value="$PROJECT_DIR$/chelper.properties" />
+        <option value="$PROJECT_DIR$/lib/ds/generated/collections/DoubleCollection.java" />
+        <option value="$PROJECT_DIR$/lib/ds/datetime/Time.java" />
+        <option value="$PROJECT_DIR$/lib/net/egork/datetime/Time.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskA.java" />
+        <option value="$PROJECT_DIR$/main/readman/TaskB.java" />
+        <option value="$PROJECT_DIR$/main/readman/TaskC.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="349" />
-    <option name="y" value="-19" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+    <option name="x" value="915" />
+    <option name="y" value="-17" />
+    <option name="width" value="1298" />
+    <option name="height" value="1407" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,17 +380,6 @@
             <path>
               <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeforces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
@@ -146,8 +412,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548444268273" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551481400685" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -156,11 +422,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Chenguang He\Desktop\codeforces\lib\ds" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Chenguang He\Desktop\codeforces\lib\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chenguang He\Desktop\codeforces\lib\ds" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -175,7 +441,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.A - Tricky Sum">
+  <component name="RunManager" selected="Task.C - Make Palindrome">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -196,15 +462,25 @@
       </method>
     </configuration>
     <configuration name="A - Enlarge GCD" type="Task" factoryName="Task">
-      <taskConf>main/readman/A - Enlarge GCD.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A - Tricky Sum" type="Task" factoryName="Task">
-      <taskConf>main/readman/A - Tricky Sum.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -213,17 +489,48 @@
       <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="B - Queries about less or equal elements" type="Task" factoryName="Task">
+      <taskConf>main/readman/B - Queries about less or equal elements.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Queries on a String" type="Task" factoryName="Task">
-      <taskConf>main/readman/B - Queries on a String.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="C - Make Palindrome" type="Task" factoryName="Task">
+      <taskConf>main/readman/C - Make Palindrome.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
-      <taskConf>main/readman/C - Nearest vectors.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -232,11 +539,29 @@
       <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="D - Area of Two Circles' Intersection" type="Task" factoryName="Task">
+      <taskConf>main/readman/D - Area of Two Circles' Intersection.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Igor In the Museum" type="Task" factoryName="Task">
-      <taskConf>main/readman/D - Igor In the Museum.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -245,11 +570,21 @@
       <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Chocolate Bar" type="Task" factoryName="Task">
-      <taskConf>main/readman/E - Chocolate Bar.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -258,11 +593,37 @@
       <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="E - Lomsat gelral" type="Task" factoryName="Task">
+      <taskConf>main/readman/E - Lomsat gelral.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - Cut Length" type="Task" factoryName="Task">
-      <taskConf>main/readman/F - Cut Length.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="F - Edge coloring of bipartite graph" type="Task" factoryName="Task">
+      <taskConf>main/readman/F - Edge coloring of bipartite graph.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -295,7 +656,11 @@
       <option name="presentableId" value="Default" />
       <updated>1548436444552</updated>
       <workItem from="1548436445813" duration="3013000" />
-      <workItem from="1548441964550" duration="2123000" />
+      <workItem from="1548441964550" duration="4098000" />
+      <workItem from="1549378980117" duration="22000" />
+      <workItem from="1549379075436" duration="20834000" />
+      <workItem from="1549555899059" duration="3601000" />
+      <workItem from="1551363179555" duration="18003000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -325,16 +690,31 @@
       <option name="project" value="LOCAL" />
       <updated>1548443753480</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="educational round 1">
+      <created>1548444279237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548444279237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="educational round 1">
+      <created>1548444291455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548444291455</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5136000" />
+    <option name="totallyTimeSpent" value="49571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="1269" y="0" width="1298" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12321144" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21717991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,17 +723,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32520324" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3996724" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49046105" visible="true" weight="0.26065162" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4916534" weight="0.32497913" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" weight="0.3284553" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007949" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50953895" side_tool="true" weight="0.1699187" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49682036" weight="0.4395126" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -373,25 +753,65 @@
     <MESSAGE value="template" />
     <MESSAGE value="delete task files" />
     <MESSAGE value="add data collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data collections" />
+    <MESSAGE value="educational round 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="educational round 1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isDigit(s) &amp;&amp; (s.charAt(0) != '0' || s.equals(&quot;0&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(s.charAt(0) == '0' || s.equals(&quot;0&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isDigit(s)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isDigit(s) &amp;&amp; (s.charAt(0) == '0' || s.equals(&quot;0&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.split(&quot;;&quot;, -1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.split(&quot;;&quot;, -1).length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word = &quot;:&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.split(&quot;;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main/TaskA.java" />
     <entry file="file://$PROJECT_DIR$/output/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/A - Enlarge GCD.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/A - Tricky Sum.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TaskClass.template">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/A - Enlarge GCD.json" />
+    <entry file="file://$PROJECT_DIR$/main/readman/A - Tricky Sum.json" />
     <entry file="file://$PROJECT_DIR$/main/readman/TaskE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -402,24 +822,124 @@
     <entry file="file://$PROJECT_DIR$/chelper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ds/collections/iss/IndependentSetSystem.java">
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/collections/iss/IndependentSetSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java">
+    <entry file="file://$PROJECT_DIR$/TaskClass.template">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/generated/collections/IntReversableCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="48">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/generated/collections/DoubleCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/datetime/Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="460" column="31" selection-start-line="460" selection-start-column="31" selection-end-line="460" selection-end-column="31" />
+          <folding>
+            <element signature="e#13503#13504#0" expanded="true" />
+            <element signature="e#13549#13550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" />
+    <entry file="file://$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/TaskA.java" />
+    <entry file="file://$PROJECT_DIR$/main/readman/A - Extract Numbers.json" />
+    <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_05_Educational_Codeforces_Round_2/A___Extract_Numbers/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="5667" column="26" selection-start-line="5667" selection-start-column="26" selection-end-line="5667" selection-end-column="26" />
+          <folding>
+            <element signature="e#197464#197465#0" expanded="true" />
+            <element signature="e#197503#197504#0" expanded="true" />
+            <element signature="e#198787#198788#0" expanded="true" />
+            <element signature="e#198862#198863#0" expanded="true" />
+            <element signature="e#202331#202332#0" expanded="true" />
+            <element signature="e#202371#202372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/io/InputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java" />
+    <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_05_Educational_Codeforces_Round_2/A___Extract_Numbers0/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/C - Make Palindrome.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
