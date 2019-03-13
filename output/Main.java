@@ -5,7 +5,11 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.BufferedWriter;
 import java.util.InputMismatchException;
+import java.util.HashMap;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.io.Writer;
 import java.io.OutputStreamWriter;
 import java.io.InputStream;
@@ -22,58 +26,73 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         OutputWriter out = new OutputWriter(outputStream);
-        TaskC solver = new TaskC();
+        TaskE solver = new TaskE();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class TaskC {
+    static class TaskE {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
-            String s = in.readString();
-            int[] count = new int[26];
-            /**
-             * counting the  occurences
-             */
-            for (int i = 0; i < s.length(); i++) {
-                count[s.charAt(i) - 'a']++;
+            int n = in.readInt();
+            int[] res = new int[n];
+            int[] colorAry = in.readIntArray(n);
+            //the number of occurences for each colour for each vertexs
+            Map<Integer, Integer>[] colorsMap = new Map[n];
+            //total count of sums for each vertexs(result)
+            long[] totalColorSums = new long[n];
+            // total count for each color
+            int[] totalColorCounts = new int[n];
+            //read graph
+            ArrayList<Integer>[] g = new ArrayList[n];
+            for (int i = 0; i < n; i++) {
+                g[i] = new ArrayList<>();
             }
+            for (int i = 0; i < n - 1; i++) {
+                int a = in.readInt() - 1;
+                int b = in.readInt() - 1;
+                g[a].add(b);
+                g[b].add(a);
+            }
+            dfs(0, -1, colorAry, g, colorsMap, totalColorSums, totalColorCounts);
+            out.printLine(totalColorSums);
+        }
 
-            int i = 0;
-            int j = 25;
-            while (i <= j) {
-                while (i < count.length && count[i] % 2 == 0) { // find the left side first odd
-                    i++;
+        private void dfs(int current, int parentNode, int[] colorAry, ArrayList<Integer>[] g, Map<Integer, Integer>[] colorsMap, long[] totalColorSums, int[] totalColorCounts) {
+            int currentColor = colorAry[current];
+            Map<Integer, Integer> currentNodeColorCount = new HashMap<>();
+            currentNodeColorCount.put(currentColor, 1);
+            int count = 1;
+            long sum = currentColor;
+            for (int next : g[current]) {
+                if (next == parentNode) {
+                    continue;
                 }
-                while (j >= 0 && count[j] % 2 == 0) { // find the right side first odd
-                    j--;
+                //dfs to all connected nodes
+                dfs(next, current, colorAry, g, colorsMap, totalColorSums, totalColorCounts);
+                Map<Integer, Integer> connectedNodeColorCount = colorsMap[next];
+                if (connectedNodeColorCount.size() > currentNodeColorCount.size()) {// if we are in lead but the data is still previous node's data
+                    connectedNodeColorCount = currentNodeColorCount;
+                    currentNodeColorCount = colorsMap[next];// move to next
+                    count = totalColorCounts[next];
+                    sum = totalColorSums[next];
                 }
-                // move right to first (because it is asked for the lexicographically (alphabetically) smallest palindrome)
-                if (i < count.length) {
-                    count[i++]++;
-                }
-                if (j >= 0) {
-                    count[j--]--;
-                }
-            }
-            StringBuilder sb = new StringBuilder();
-            int odd_Index = -1;
-            for (int k = count.length - 1; k >= 0; k--) {
-                if (count[k] % 2 != 0) { // we know there is no more than 1 odd number in our count array
-                    odd_Index = k;
-                    count[k]--;
-                }
-                for (int l = 0; l < count[k]; l++) {
-                    if (l % 2 == 0) {
-                        sb.append((char) ('a' + k));
-                    } else {
-                        sb.insert(0, (char) ('a' + k));
+
+                for (Map.Entry<Integer, Integer> connectedNode : connectedNodeColorCount.entrySet()) {
+                    int connectedNodeColor = connectedNode.getKey();
+                    int connectedNodeCount = connectedNode.getValue();
+                    currentNodeColorCount.put(connectedNodeColor, currentNodeColorCount.getOrDefault(connectedNodeColor, 0) + connectedNodeCount); // update current node's color count
+                    if (count < currentNodeColorCount.get(connectedNodeColor)) { // if total color is less than the current color count, in other words, we found larger count of some color.
+                        count = currentNodeColorCount.get(connectedNodeColor);// then we need to update the current max color and count.
+                        sum = connectedNodeColor;
+                    } else if (count == currentNodeColorCount.get(connectedNodeColor)) {// if the total color is same to current color count, in other words,  two color has same color count and the count is the largest count.
+                        sum += connectedNodeColor;// we need to add two color together.
                     }
                 }
             }
-            if (odd_Index != -1) {
-                sb.insert(sb.length() / 2, (char) ('a' + odd_Index)); // put the only odd number (if it has) in the middle
-            }
-            out.print(sb.toString());
+
+            colorsMap[current] = currentNodeColorCount;
+            totalColorCounts[current] = count;
+            totalColorSums[current] = sum;
         }
 
     }
@@ -89,13 +108,18 @@ public class Main {
             this.writer = new PrintWriter(writer);
         }
 
-        public void print(Object... objects) {
-            for (int i = 0; i < objects.length; i++) {
+        public void print(long[] array) {
+            for (int i = 0; i < array.length; i++) {
                 if (i != 0) {
                     writer.print(' ');
                 }
-                writer.print(objects[i]);
+                writer.print(array[i]);
             }
+        }
+
+        public void printLine(long[] array) {
+            print(array);
+            writer.println();
         }
 
         public void close() {
@@ -113,6 +137,14 @@ public class Main {
 
         public InputReader(InputStream stream) {
             this.stream = stream;
+        }
+
+        public int[] readIntArray(int size) {
+            int[] array = new int[size];
+            for (int i = 0; i < size; i++) {
+                array[i] = readInt();
+            }
+            return array;
         }
 
         public int read() {
@@ -133,19 +165,26 @@ public class Main {
             return buf[curChar++];
         }
 
-        public String readString() {
+        public int readInt() {
             int c = read();
             while (isSpaceChar(c)) {
                 c = read();
             }
-            StringBuilder res = new StringBuilder();
+            int sgn = 1;
+            if (c == '-') {
+                sgn = -1;
+                c = read();
+            }
+            int res = 0;
             do {
-                if (Character.isValidCodePoint(c)) {
-                    res.appendCodePoint(c);
+                if (c < '0' || c > '9') {
+                    throw new InputMismatchException();
                 }
+                res *= 10;
+                res += c - '0';
                 c = read();
             } while (!isSpaceChar(c));
-            return res.toString();
+            return res * sgn;
         }
 
         public boolean isSpaceChar(int c) {

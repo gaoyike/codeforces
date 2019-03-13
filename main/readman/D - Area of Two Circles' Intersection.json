@@ -7,7 +7,12 @@
   "output" : {
     "type" : "STANDARD"
   },
-  "tests" : [ ],
+  "tests" : [ {
+    "input" : "44721 999999999 400000000\n0 0 600000000",
+    "output" : "0.00188343226909637451\n",
+    "index" : 0,
+    "active" : true
+  } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
