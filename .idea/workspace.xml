@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/D - Area of Two Circles' Intersection.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/D - Area of Two Circles' Intersection.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/E - Lomsat gelral.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/E - Lomsat gelral.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/TaskD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskE.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/TaskE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,26 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/readman/TaskE.java">
+        <entry file="file://$PROJECT_DIR$/main/readman/TaskF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="47" column="103" lean-forward="true" selection-start-line="47" selection-start-column="83" selection-end-line="47" selection-end-column="103" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/net/egork/io/InputReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="24" />
-              <folding>
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -98,12 +72,37 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="readman" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552498200286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552501323064" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -132,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.E - Lomsat gelral">
+  <component name="RunManager" selected="Task.A - USB Flash Drives">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -189,6 +188,12 @@
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
+    <configuration name="A - USB Flash Drives" type="Task" factoryName="Task">
+      <taskConf>main/readman/A - USB Flash Drives.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
@@ -196,21 +201,6 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="B - Queries about less or equal elements" type="Task" factoryName="Task">
-      <taskConf>main/readman/B - Queries about less or equal elements.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -241,18 +231,15 @@
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
-    <configuration name="C - Make Palindrome" type="Task" factoryName="Task">
-      <taskConf>main/readman/C - Make Palindrome.json</taskConf>
+    <configuration name="B - The Best Gift" type="Task" factoryName="Task">
+      <taskConf>main/readman/B - The Best Gift.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="C - Load Balancing" type="Task" factoryName="Task">
+      <taskConf>main/readman/C - Load Balancing.json</taskConf>
+      <method v="2">
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -293,18 +280,9 @@
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
-    <configuration name="D - Area of Two Circles' Intersection" type="Task" factoryName="Task">
-      <taskConf>main/readman/D - Area of Two Circles' Intersection.json</taskConf>
+    <configuration name="D - Gadgets for dollars and pounds" type="Task" factoryName="Task">
+      <taskConf>main/readman/D - Gadgets for dollars and pounds.json</taskConf>
       <method v="2">
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -382,18 +360,9 @@
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
-    <configuration name="E - Lomsat gelral" type="Task" factoryName="Task">
-      <taskConf>main/readman/E - Lomsat gelral.json</taskConf>
+    <configuration name="E - Minimum spanning tree for each edge" type="Task" factoryName="Task">
+      <taskConf>main/readman/E - Minimum spanning tree for each edge.json</taskConf>
       <method v="2">
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -415,18 +384,9 @@
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
-    <configuration name="F - Edge coloring of bipartite graph" type="Task" factoryName="Task">
-      <taskConf>main/readman/F - Edge coloring of bipartite graph.json</taskConf>
+    <configuration name="F - Frogs and mosquitoes" type="Task" factoryName="Task">
+      <taskConf>main/readman/F - Frogs and mosquitoes.json</taskConf>
       <method v="2">
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -472,7 +432,7 @@
       <workItem from="1552453319866" duration="10000" />
       <workItem from="1552453440315" duration="2007000" />
       <workItem from="1552486772277" duration="6218000" />
-      <workItem from="1552498338008" duration="2660000" />
+      <workItem from="1552498338008" duration="2921000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -530,11 +490,27 @@
       <option name="project" value="LOCAL" />
       <updated>1551680983932</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="solved D,E">
+      <created>1552501165056</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552501165056</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101395000" />
+    <option name="totallyTimeSpent" value="101656000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -550,12 +526,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32520324" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49046105" weight="0.26422763" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4916534" visible="true" weight="0.41544715" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4916534" weight="0.41544715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" weight="0.33834586" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" visible="true" weight="0.3382114" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50953895" side_tool="true" weight="0.1699187" />
@@ -581,7 +557,8 @@
     <MESSAGE value="add data collections" />
     <MESSAGE value="educational round 1" />
     <MESSAGE value="solved A,B,C" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved A,B,C" />
+    <MESSAGE value="solved D,E" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved D,E" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -813,16 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="47" column="103" lean-forward="true" selection-start-line="47" selection-start-column="83" selection-end-line="47" selection-end-column="103" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/net/egork/io/InputReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
@@ -831,6 +798,44 @@
             <element signature="e#592#593#0" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1982#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
