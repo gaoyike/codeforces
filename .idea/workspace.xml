@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="" />
+    <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/archive/2019.03/2019.03.13 - Educational Codeforces Round 3/TaskA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/C___Make_Palindrome/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/C___Make_Palindrome/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/A - USB Flash Drives.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.03/2019.03.13 - Educational Codeforces Round 3/A - USB Flash Drives.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/B - The Best Gift.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/B - The Best Gift.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/TaskB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/readman/TaskF.java">
+        <entry file="file://$PROJECT_DIR$/main/readman/TaskB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="240">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -51,17 +66,18 @@
         <option value="$PROJECT_DIR$/lib/ds/generated/collections/DoubleCollection.java" />
         <option value="$PROJECT_DIR$/lib/ds/datetime/Time.java" />
         <option value="$PROJECT_DIR$/lib/net/egork/datetime/Time.java" />
-        <option value="$PROJECT_DIR$/main/readman/TaskA.java" />
-        <option value="$PROJECT_DIR$/main/readman/TaskB.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskC.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskD.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskE.java" />
+        <option value="$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/C___Make_Palindrome/Main.java" />
+        <option value="$PROJECT_DIR$/main/readman/TaskA.java" />
+        <option value="$PROJECT_DIR$/main/readman/TaskB.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="243" />
-    <option name="y" value="-16" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1272" />
+    <option name="y" value="4" />
     <option name="width" value="1294" />
     <option name="height" value="1407" />
   </component>
@@ -85,6 +101,17 @@
             <path>
               <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -93,6 +120,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="readman" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,9 +132,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552501323064" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552656736064" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -131,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.A - USB Flash Drives">
+  <component name="RunManager" selected="Task.C - Load Balancing">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -188,12 +224,6 @@
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
-    <configuration name="A - USB Flash Drives" type="Task" factoryName="Task">
-      <taskConf>main/readman/A - USB Flash Drives.json</taskConf>
-      <method v="2">
-        <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
@@ -228,12 +258,6 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="B - The Best Gift" type="Task" factoryName="Task">
-      <taskConf>main/readman/B - The Best Gift.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -432,7 +456,7 @@
       <workItem from="1552453319866" duration="10000" />
       <workItem from="1552453440315" duration="2007000" />
       <workItem from="1552486772277" duration="6218000" />
-      <workItem from="1552498338008" duration="2921000" />
+      <workItem from="1552498338008" duration="16829000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -497,11 +521,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552501165056</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Start Educational Codeforces Round 3">
+      <created>1552501510767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552501510767</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101656000" />
+    <option name="totallyTimeSpent" value="115564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,10 +544,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21555915" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.363047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -525,17 +556,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32520324" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49046105" weight="0.26422763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49046105" visible="true" weight="0.19966583" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4916534" weight="0.41544715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" visible="true" weight="0.3382114" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" weight="0.3382114" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50953895" side_tool="true" weight="0.1699187" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49682036" weight="0.4390244" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49682036" weight="0.4344194" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -550,6 +581,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="template" />
@@ -558,25 +615,8 @@
     <MESSAGE value="educational round 1" />
     <MESSAGE value="solved A,B,C" />
     <MESSAGE value="solved D,E" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved D,E" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/main/readman/TaskD.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/main/readman/TaskE.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Start Educational Codeforces Round 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Educational Codeforces Round 3" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -705,18 +745,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java" />
     <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_05_Educational_Codeforces_Round_2/A___Extract_Numbers0/Main.java" />
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/readman/C - Make Palindrome.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -724,13 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="497" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -759,16 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/net/egork/graph/DFSOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -787,17 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="351" selection-start-line="351" selection-end-line="351" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/net/egork/io/InputReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="24" />
-          <folding>
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,6 +823,13 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/readman/TaskE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -832,10 +840,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskF.java">
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/C___Make_Palindrome/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/A - USB Flash Drives.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/F___Edge_coloring_of_bipartite_graph/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/D___Area_of_Two_Circles__Intersection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/io/InputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+          <folding>
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>

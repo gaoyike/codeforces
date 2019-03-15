@@ -1,5 +1,5 @@
 {
-  "name" : "C - Load Balancing",
+  "name" : "A - USB Flash Drives",
   "testType" : "SINGLE",
   "input" : {
     "type" : "STANDARD"
@@ -8,25 +8,25 @@
     "type" : "STANDARD"
   },
   "tests" : [ {
-    "input" : "2\n1 6\n",
+    "input" : "3\n5\n2\n1\n3\n",
     "output" : "2\n",
     "index" : 0,
     "active" : true
   }, {
-    "input" : "7\n10 11 10 11 10 11 11\n",
-    "output" : "0\n",
+    "input" : "3\n6\n2\n3\n2\n",
+    "output" : "3\n",
     "index" : 1,
     "active" : true
   }, {
-    "input" : "5\n1 2 3 4 5\n",
-    "output" : "3\n",
+    "input" : "2\n5\n5\n10\n",
+    "output" : "1\n",
     "index" : 2,
     "active" : true
   } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
-  "taskClass" : "readman.TaskC",
+  "taskClass" : "on2019_03.on2019_03_13_Educational_Codeforces_Round_3.A___USB_Flash_Drives.TaskA",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
