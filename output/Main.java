@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
+import java.util.Arrays;
 import java.io.BufferedWriter;
 import java.io.Writer;
 import java.io.OutputStreamWriter;
@@ -22,27 +23,27 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         OutputWriter out = new OutputWriter(outputStream);
-        TaskB solver = new TaskB();
+        TaskC solver = new TaskC();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class TaskB {
+    static class TaskC {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
             int n = in.readInt();
-            int m = in.readInt();
             int[] ary = in.readIntArray(n);
-            int[] count = new int[m];
             long res = 0;
-            for (int i = 0; i < ary.length; i++) {
-                count[ary[i] - 1]++;
+            Arrays.sort(ary);
+            int sum = 0;
+            for (int i : ary) {
+                sum += i;
             }
-            for (int i = 0; i < m; i++) {
-                for (int j = i + 1; j < m; j++) {
-                    res += count[i] * count[j];
-                }
+            for (int i = 0; i < n; i++) {
+                int b = sum / (n - i);
+                res += Math.abs(ary[i] - b);
+                sum -= b;
             }
-            out.print(res);
+            out.print(res / 2);
         }
 
     }

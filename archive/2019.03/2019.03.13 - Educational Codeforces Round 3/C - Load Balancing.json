@@ -8,19 +8,9 @@
     "type" : "STANDARD"
   },
   "tests" : [ {
-    "input" : "2\n1 6\n",
-    "output" : "2\n",
+    "input" : "5\n1 2 3 4 5\t",
+    "output" : "3",
     "index" : 0,
-    "active" : true
-  }, {
-    "input" : "7\n10 11 10 11 10 11 11\n",
-    "output" : "0\n",
-    "index" : 1,
-    "active" : true
-  }, {
-    "input" : "5\n1 2 3 4 5\n",
-    "output" : "3\n",
-    "index" : 2,
     "active" : true
   } ],
   "location" : "main/readman",
