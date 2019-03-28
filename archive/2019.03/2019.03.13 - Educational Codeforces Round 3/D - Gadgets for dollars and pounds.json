@@ -7,7 +7,26 @@
   "output" : {
     "type" : "STANDARD"
   },
-  "tests" : [ ],
+  "tests" : [ {
+    "input" : "5 4 2 2\n1 2 3 2 1\n3 2 1 2 3\n1 1\n2 1\n1 2\n2 2\n",
+    "output" : "3\n1 1\n2 3\n",
+    "index" : 0,
+    "active" : false
+  }, {
+    "input" : "4 3 2 200\n69 70 71 72\n104 105 106 107\n1 1\n2 2\n1 2\n",
+    "output" : "-1\n",
+    "index" : 1,
+    "active" : false
+  }, {
+    "input" : "4 3 1 1000000000\n900000 910000 940000 990000\n990000 999000 999900 999990\n1 87654\n2 76543\n1 65432\n",
+    "output" : "-1\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "5 5 3 1000000\n921 853 547 187 164\n711 462 437 307 246\n2 94\n2 230\n1 373\n1 476\n2 880",
+    "index" : 3,
+    "active" : false
+  } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",

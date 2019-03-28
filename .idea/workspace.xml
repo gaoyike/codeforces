@@ -4,10 +4,10 @@
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/C - Load Balancing.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/C - Load Balancing.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/TaskC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/D - Gadgets for dollars and pounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/D - Gadgets for dollars and pounds.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/TaskD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,10 +20,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java">
+        <entry file="file://$PROJECT_DIR$/main/readman/TaskD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="48">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="e#3109#3110#0" expanded="true" />
+                <element signature="e#3143#3144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,17 +63,17 @@
         <option value="$PROJECT_DIR$/lib/ds/generated/collections/DoubleCollection.java" />
         <option value="$PROJECT_DIR$/lib/ds/datetime/Time.java" />
         <option value="$PROJECT_DIR$/lib/net/egork/datetime/Time.java" />
-        <option value="$PROJECT_DIR$/main/readman/TaskD.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskE.java" />
         <option value="$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/C___Make_Palindrome/Main.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskA.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskB.java" />
         <option value="$PROJECT_DIR$/main/readman/TaskC.java" />
+        <option value="$PROJECT_DIR$/main/readman/TaskD.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1176" />
+    <option name="x" value="1273" />
     <option name="width" value="1294" />
     <option name="height" value="1407" />
   </component>
@@ -130,7 +134,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552959280460" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553810577259" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -159,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.D - Gadgets for dollars and pounds">
+  <component name="RunManager" selected="Task.E - Minimum spanning tree for each edge">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -196,11 +200,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A - Tricky Sum" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -233,6 +239,7 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Queries on a String" type="Task" factoryName="Task">
@@ -251,11 +258,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -288,17 +297,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="D - Gadgets for dollars and pounds" type="Task" factoryName="Task">
-      <taskConf>main/readman/D - Gadgets for dollars and pounds.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Igor In the Museum" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -331,11 +336,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Chocolate Bar" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -368,11 +375,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Minimum spanning tree for each edge" type="Task" factoryName="Task">
       <taskConf>main/readman/E - Minimum spanning tree for each edge.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -392,11 +401,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - Frogs and mosquitoes" type="Task" factoryName="Task">
       <taskConf>main/readman/F - Frogs and mosquitoes.json</taskConf>
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -442,7 +453,8 @@
       <workItem from="1552453319866" duration="10000" />
       <workItem from="1552453440315" duration="2007000" />
       <workItem from="1552486772277" duration="6218000" />
-      <workItem from="1552498338008" duration="27394000" />
+      <workItem from="1552498338008" duration="29344000" />
+      <workItem from="1553779309775" duration="16639000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -521,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552656814502</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="solved C">
+      <created>1552959358143</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1552959358143</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126129000" />
+    <option name="totallyTimeSpent" value="144718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -549,16 +568,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32520324" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49046105" weight="0.19548872" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4916534" visible="true" weight="0.41520467" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49046105" visible="true" weight="0.34670007" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4916534" weight="0.41520467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" weight="0.33751044" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49920508" weight="0.33742833" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" weight="0.3284553" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50953895" side_tool="true" weight="0.1699187" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50953895" side_tool="true" weight="0.1699187" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49920508" weight="0.3283208" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49682036" weight="0.4344194" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -599,6 +618,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -610,64 +643,58 @@
     <MESSAGE value="solved D,E" />
     <MESSAGE value="Start Educational Codeforces Round 3" />
     <MESSAGE value="solved A,B" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved A,B" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/main/readman/TaskC.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="solved C" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved C" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>g</expression-string>
+        <expression-string>sum</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>g[4]</expression-string>
+        <expression-string>sum.add(items[0].need)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>g[3]</expression-string>
+        <expression-string>items[1]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>g[2]</expression-string>
+        <expression-string>minP</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>g[1]</expression-string>
+        <expression-string>minD</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>g[0]</expression-string>
+        <expression-string>items[1].cost*minP</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>g[current]</expression-string>
+        <expression-string>items[1].cost*minD</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>BigDecimal.valueOf(r2)</expression-string>
+        <expression-string>items[1].cost</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>BigDecimal.valueOf(Math.pow(r2, 2) + c.pow(2).doubleValue() - Math.pow(r1, 2)).divide(BigDecimal.valueOf(2)).divide(BigDecimal.valueOf(r2))</expression-string>
+        <expression-string>minP*items[1].cost</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>items</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -752,9 +779,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_05_Educational_Codeforces_Round_2/A___Extract_Numbers0/Main.java" />
-    <entry file="file://$PROJECT_DIR$/main/readman/C - Make Palindrome.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/C - Make Palindrome.json" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -839,25 +864,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/C___Make_Palindrome/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/A - USB Flash Drives.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/A - USB Flash Drives.json" />
     <entry file="file://$PROJECT_DIR$/lib/test/on2019_02/on2019_02_07_Educational_Codeforces_Round_2/F___Edge_coloring_of_bipartite_graph/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -886,20 +899,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskA.java" />
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskB.java" />
     <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -907,10 +908,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java">
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskC.java" />
+    <entry file="file://$PROJECT_DIR$/lib/net/egork/collections/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="144">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3508">
+          <caret line="1241" column="23" selection-start-line="1241" selection-start-column="23" selection-end-line="1241" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/readman/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#3109#3110#0" expanded="true" />
+            <element signature="e#3143#3144#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
