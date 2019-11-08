@@ -1,0 +1,31 @@
+{
+  "name" : "C - Load Balancing",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD"
+  },
+  "output" : {
+    "type" : "STANDARD"
+  },
+  "tests" : [ {
+    "input" : "5\n1 2 3 4 5\t",
+    "output" : "3",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "main/readman",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "on2019_03.on2019_03_13_Educational_Codeforces_Round_3.C___Load_Balancing.TaskC",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.03.13",
+  "contestName" : "Educational Codeforces Round 3",
+  "truncate" : true,
+  "inputClass" : "net.egork.io.InputReader",
+  "outputClass" : "net.egork.io.OutputWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false
+}
