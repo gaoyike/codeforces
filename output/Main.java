@@ -30,15 +30,24 @@ public class Main {
     static class TaskA {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
             int n = in.readInt();
-            int[] ary = in.readIntArray(n);
-            int c = ary[0];
-            for (int i = 1; i < n; i++) {
-                int t = ary[i - 1];
-                ary[i - 1] = ary[i];
-                ary[i] = t;
+            for (int i = 0; i < n; i++) {
+                int m = in.readInt();
+                int even = 0;
+                for (int j = 0; j < m; j++) {
+                    int k = in.readInt();
+                    if (k % 2 == 0) {
+                        even++;
+                    }
+                }
+                if (even == m) {
+                    out.printLine("NO");
+                } else if (m % 2 == 0 && even == 0) {
+                    out.printLine("NO");
+                } else {
+                    out.printLine("YES");
+                }
+
             }
-            ary[n - 1] = c;
-            out.printLine(ary);
         }
 
     }
@@ -52,14 +61,6 @@ public class Main {
 
         public InputReader(InputStream stream) {
             this.stream = stream;
-        }
-
-        public int[] readIntArray(int size) {
-            int[] array = new int[size];
-            for (int i = 0; i < size; i++) {
-                array[i] = readInt();
-            }
-            return array;
         }
 
         public int read() {
@@ -131,17 +132,17 @@ public class Main {
             this.writer = new PrintWriter(writer);
         }
 
-        public void print(int[] array) {
-            for (int i = 0; i < array.length; i++) {
+        public void print(Object... objects) {
+            for (int i = 0; i < objects.length; i++) {
                 if (i != 0) {
                     writer.print(' ');
                 }
-                writer.print(array[i]);
+                writer.print(objects[i]);
             }
         }
 
-        public void printLine(int[] array) {
-            print(array);
+        public void printLine(Object... objects) {
+            print(objects);
             writer.println();
         }
 

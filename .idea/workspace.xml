@@ -2,45 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archive/2019.03/2019.03.13 - Educational Codeforces Round 3/TaskE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2019.03/2019.03.13 - Educational Codeforces Round 3/TaskF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/A - Copying Homework.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_03/on2019_03_13_Educational_Codeforces_Round_3/E___Minimum_spanning_tree_for_each_edge/E - Minimum spanning tree for each edge.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_03/on2019_03_13_Educational_Codeforces_Round_3/E___Minimum_spanning_tree_for_each_edge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_03/on2019_03_13_Educational_Codeforces_Round_3/E___Minimum_spanning_tree_for_each_edge/TaskE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_03/on2019_03_13_Educational_Codeforces_Round_3/F___Frogs_and_mosquitoes/F - Frogs and mosquitoes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_03/on2019_03_13_Educational_Codeforces_Round_3/F___Frogs_and_mosquitoes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_03/on2019_03_13_Educational_Codeforces_Round_3/F___Frogs_and_mosquitoes/TaskF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/B - Cleaning Robots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/C - Even Path.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/D - Find String in a Grid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/E - Songwriter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/F - Regular Forestation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/G - Performance Review.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/H - Twin Buildings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/I - Mission Possible.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/J - Tiling Terrace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/K - Addition Robot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/L - Road Construction.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/A - Array with Odd Sum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/B - Food Buying.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/C - Yet Another Walking Robot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/D - Fight with Monsters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/E1 - String Coloring (easy version).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/E2 - String Coloring (hard version).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskE1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskE2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/B___Cleaning_Robots/B - Cleaning Robots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/B___Cleaning_Robots/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/B___Cleaning_Robots/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/C___Even_Path/C - Even Path.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/C___Even_Path/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/C___Even_Path/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/D___Find_String_in_a_Grid/D - Find String in a Grid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/D___Find_String_in_a_Grid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/D___Find_String_in_a_Grid/TaskD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/E___Songwriter/E - Songwriter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/E___Songwriter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/E___Songwriter/TaskE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/F___Regular_Forestation/F - Regular Forestation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/F___Regular_Forestation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/F___Regular_Forestation/TaskF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/G___Performance_Review/G - Performance Review.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/G___Performance_Review/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/G___Performance_Review/TaskG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/H___Twin_Buildings/H - Twin Buildings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/H___Twin_Buildings/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/H___Twin_Buildings/TaskH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/I___Mission_Possible/I - Mission Possible.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/I___Mission_Possible/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/I___Mission_Possible/TaskI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/J___Tiling_Terrace/J - Tiling Terrace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/J___Tiling_Terrace/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/J___Tiling_Terrace/TaskJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/K___Addition_Robot/K - Addition Robot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/K___Addition_Robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/K___Addition_Robot/TaskK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/L___Road_Construction/L - Road Construction.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/L___Road_Construction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/L___Road_Construction/TaskL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/A___Array_with_Odd_Sum/A - Array with Odd Sum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/A___Array_with_Odd_Sum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/A___Array_with_Odd_Sum/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/B___Food_Buying/B - Food Buying.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/B___Food_Buying/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/B___Food_Buying/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/C___Yet_Another_Walking_Robot/C - Yet Another Walking Robot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/C___Yet_Another_Walking_Robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/C___Yet_Another_Walking_Robot/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/D___Fight_with_Monsters/D - Fight with Monsters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/D___Fight_with_Monsters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/D___Fight_with_Monsters/TaskD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E1___String_Coloring__easy_version_/E1 - String Coloring (easy version).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E1___String_Coloring__easy_version_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E1___String_Coloring__easy_version_/TaskE1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E2___String_Coloring__hard_version_/E2 - String Coloring (hard version).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E2___String_Coloring__hard_version_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E2___String_Coloring__hard_version_/TaskE2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/F___Berland_Beauty/F - Berland Beauty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/F___Berland_Beauty/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/F___Berland_Beauty/TaskF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/E - Minimum spanning tree for each edge.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.03/2019.03.13 - Educational Codeforces Round 3/E - Minimum spanning tree for each edge.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/F - Frogs and mosquitoes.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.03/2019.03.13 - Educational Codeforces Round 3/F - Frogs and mosquitoes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/META-INF/codeforces.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/B - Cleaning Robots.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/B - Cleaning Robots.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/C - Even Path.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/C - Even Path.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/D - Find String in a Grid.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/D - Find String in a Grid.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/E - Songwriter.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/E - Songwriter.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/F - Regular Forestation.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/F - Regular Forestation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/G - Performance Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/G - Performance Review.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/H - Twin Buildings.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/H - Twin Buildings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/I - Mission Possible.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/I - Mission Possible.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/J - Tiling Terrace.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/J - Tiling Terrace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/K - Addition Robot.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/K - Addition Robot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/L - Road Construction.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/L - Road Construction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskE.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskF.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskG.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskH.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskI.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskK.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskL.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Copying Homework.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/B - Cleaning Robots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Even Path.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/D - Find String in a Grid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E - Songwriter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/F - Regular Forestation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/G - Performance Review.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/H - Twin Buildings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/I - Mission Possible.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/J - Tiling Terrace.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/K - Addition Robot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/L - Road Construction.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskJ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskL.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +144,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -79,11 +157,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553810577259" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/archive/2019.02/2019.02.05 - Educational Codeforces Round 2/A - Extract Numbers.json" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -94,19 +173,7 @@
       <recent name="C:\Users\Chenguang He\Desktop\codeforces\lib\lib" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Task.B - Cleaning Robots">
+  <component name="RunManager" selected="Task.A - Enlarge GCD">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -115,6 +182,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +207,17 @@
     <configuration name="A - Enlarge GCD" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -167,11 +256,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="B - Cleaning Robots" type="Task" factoryName="Task">
-      <taskConf>main/readman/B - Cleaning Robots.json</taskConf>
-      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -179,6 +272,17 @@
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -217,11 +321,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="C - Even Path" type="Task" factoryName="Task">
-      <taskConf>main/readman/C - Even Path.json</taskConf>
-      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -229,6 +337,17 @@
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -267,11 +386,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="D - Find String in a Grid" type="Task" factoryName="Task">
-      <taskConf>main/readman/D - Find String in a Grid.json</taskConf>
-      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -279,6 +402,17 @@
     <configuration name="D - Igor In the Museum" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -317,11 +451,33 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Chocolate Bar" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -360,11 +516,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="E - Songwriter" type="Task" factoryName="Task">
-      <taskConf>main/readman/E - Songwriter.json</taskConf>
-      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -388,53 +548,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="F - Regular Forestation" type="Task" factoryName="Task">
-      <taskConf>main/readman/F - Regular Forestation.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="G - Performance Review" type="Task" factoryName="Task">
-      <taskConf>main/readman/G - Performance Review.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="H - Twin Buildings" type="Task" factoryName="Task">
-      <taskConf>main/readman/H - Twin Buildings.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="I - Mission Possible" type="Task" factoryName="Task">
-      <taskConf>main/readman/I - Mission Possible.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="J - Tiling Terrace" type="Task" factoryName="Task">
-      <taskConf>main/readman/J - Tiling Terrace.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="K - Addition Robot" type="Task" factoryName="Task">
-      <taskConf>main/readman/K - Addition Robot.json</taskConf>
-      <method v="2">
-        <option name="MakeProject" enabled="false" />
-        <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="L - Road Construction" type="Task" factoryName="Task">
-      <taskConf>main/readman/L - Road Construction.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -458,6 +580,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -484,7 +607,18 @@
       <workItem from="1552498338008" duration="29344000" />
       <workItem from="1553779309775" duration="16639000" />
       <workItem from="1573106686453" duration="6676000" />
-      <workItem from="1573159806132" duration="4073000" />
+      <workItem from="1573159806132" duration="11011000" />
+      <workItem from="1575251068795" duration="66000" />
+      <workItem from="1575252607369" duration="96000" />
+      <workItem from="1575252717225" duration="1228000" />
+      <workItem from="1576165672896" duration="6000" />
+      <workItem from="1580915929659" duration="7537000" />
+      <workItem from="1581018875037" duration="2000" />
+      <workItem from="1581019270011" duration="117000" />
+      <workItem from="1581052897406" duration="94000" />
+      <workItem from="1585491670977" duration="10000" />
+      <workItem from="1585493818812" duration="33000" />
+      <workItem from="1597271646922" duration="800000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -570,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552959358143</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="solved A">
+      <created>1573229143300</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573229143300</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -583,16 +724,14 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -611,6 +750,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -623,7 +763,46 @@
     <MESSAGE value="Start Educational Codeforces Round 3" />
     <MESSAGE value="solved A,B" />
     <MESSAGE value="solved C" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved C" />
+    <MESSAGE value="solved A" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved A" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="641" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575252698683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1575252698683" />
+    <state width="915" height="318" key="GridCell.Tab.0.bottom" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.0.bottom/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.0.center" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.0.center/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.0.left" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.0.left/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.0.right" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.0.right/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.1.bottom" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.bottom/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.1.center" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.center/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.1.left" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.left/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state width="915" height="318" key="GridCell.Tab.1.right" timestamp="1580960151232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="318" key="GridCell.Tab.1.right/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
