@@ -2,118 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/A - Array with Odd Sum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/B - Food Buying.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/C - Yet Another Walking Robot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/D - Fight with Monsters.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/E1 - String Coloring (easy version).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/E2 - String Coloring (hard version).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskE2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/TaskF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/B___Cleaning_Robots/B - Cleaning Robots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/B___Cleaning_Robots/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/B___Cleaning_Robots/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/C___Even_Path/C - Even Path.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/C___Even_Path/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/C___Even_Path/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/D___Find_String_in_a_Grid/D - Find String in a Grid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/D___Find_String_in_a_Grid/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/D___Find_String_in_a_Grid/TaskD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/E___Songwriter/E - Songwriter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/E___Songwriter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/E___Songwriter/TaskE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/F___Regular_Forestation/F - Regular Forestation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/F___Regular_Forestation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/F___Regular_Forestation/TaskF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/G___Performance_Review/G - Performance Review.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/G___Performance_Review/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/G___Performance_Review/TaskG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/H___Twin_Buildings/H - Twin Buildings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/H___Twin_Buildings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/H___Twin_Buildings/TaskH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/I___Mission_Possible/I - Mission Possible.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/I___Mission_Possible/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/I___Mission_Possible/TaskI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/J___Tiling_Terrace/J - Tiling Terrace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/J___Tiling_Terrace/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/J___Tiling_Terrace/TaskJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/K___Addition_Robot/K - Addition Robot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/K___Addition_Robot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/K___Addition_Robot/TaskK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/L___Road_Construction/L - Road Construction.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/L___Road_Construction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2019_11/on2019_11_07_2019_2020_ICPC__Asia_Jakarta_Regional_Contest__Online_Mirror__ICPC_Rules__Teams_Preferred_/L___Road_Construction/TaskL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/A___Array_with_Odd_Sum/A - Array with Odd Sum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/A___Array_with_Odd_Sum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/A___Array_with_Odd_Sum/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/B___Food_Buying/B - Food Buying.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/B___Food_Buying/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/B___Food_Buying/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/C___Yet_Another_Walking_Robot/C - Yet Another Walking Robot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/C___Yet_Another_Walking_Robot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/C___Yet_Another_Walking_Robot/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/D___Fight_with_Monsters/D - Fight with Monsters.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/D___Fight_with_Monsters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/D___Fight_with_Monsters/TaskD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E1___String_Coloring__easy_version_/E1 - String Coloring (easy version).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E1___String_Coloring__easy_version_/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E1___String_Coloring__easy_version_/TaskE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E2___String_Coloring__hard_version_/E2 - String Coloring (hard version).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E2___String_Coloring__hard_version_/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/E2___String_Coloring__hard_version_/TaskE2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/F___Berland_Beauty/F - Berland Beauty.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/F___Berland_Beauty/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2020_02/on2020_02_05_Codeforces_Round__617__Div__3_/F___Berland_Beauty/TaskF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/F - Berland Beauty.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/B - Cleaning Robots.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/B - Cleaning Robots.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/C - Even Path.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/C - Even Path.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/D - Find String in a Grid.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/D - Find String in a Grid.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/E - Songwriter.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/E - Songwriter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/F - Regular Forestation.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/F - Regular Forestation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/G - Performance Review.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/G - Performance Review.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/H - Twin Buildings.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/H - Twin Buildings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/I - Mission Possible.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/I - Mission Possible.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/J - Tiling Terrace.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/J - Tiling Terrace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/K - Addition Robot.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/K - Addition Robot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/L - Road Construction.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/L - Road Construction.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskE.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskF.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskG.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskH.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskI.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskK.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskL.java" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2019.11/2019.11.07 - 2019-2020 ICPC, Asia Jakarta Regional Contest (Online Mirror, ICPC Rules, Teams Preferred)/TaskL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Copying Homework.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/B - Cleaning Robots.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Even Path.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/D - Find String in a Grid.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E - Songwriter.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/F - Regular Forestation.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/G - Performance Review.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/H - Twin Buildings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/I - Mission Possible.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/J - Tiling Terrace.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/K - Addition Robot.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/L - Road Construction.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskH.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskJ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -618,7 +508,7 @@
       <workItem from="1581052897406" duration="94000" />
       <workItem from="1585491670977" duration="10000" />
       <workItem from="1585493818812" duration="33000" />
-      <workItem from="1597271646922" duration="800000" />
+      <workItem from="1597271646922" duration="2037000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -711,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573229143300</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="clean up">
+      <created>1597272476026</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597272476026</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -764,45 +661,22 @@
     <MESSAGE value="solved A,B" />
     <MESSAGE value="solved C" />
     <MESSAGE value="solved A" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved A" />
+    <MESSAGE value="clean up" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="641" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575252698683">
+    <state x="709" y="363" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597272358403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="641" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1575252698683" />
-    <state width="915" height="318" key="GridCell.Tab.0.bottom" timestamp="1580960151232">
+    <state x="709" y="363" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1597272358403" />
+    <state x="381" y="4" key="CommitChangelistDialog2" timestamp="1597272474658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="915" height="318" key="GridCell.Tab.0.bottom/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.0.center" timestamp="1580960151232">
+    <state x="381" y="4" key="CommitChangelistDialog2/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1597272474658" />
+    <state x="553" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597272496491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="915" height="318" key="GridCell.Tab.0.center/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.0.left" timestamp="1580960151232">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="915" height="318" key="GridCell.Tab.0.left/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.0.right" timestamp="1580960151232">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="915" height="318" key="GridCell.Tab.0.right/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.1.bottom" timestamp="1580960151232">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="915" height="318" key="GridCell.Tab.1.bottom/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.1.center" timestamp="1580960151232">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="915" height="318" key="GridCell.Tab.1.center/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.1.left" timestamp="1580960151232">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="915" height="318" key="GridCell.Tab.1.left/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
-    <state width="915" height="318" key="GridCell.Tab.1.right" timestamp="1580960151232">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="915" height="318" key="GridCell.Tab.1.right/3840.0.2560.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1580960151232" />
+    <state x="553" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1597272496491" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
