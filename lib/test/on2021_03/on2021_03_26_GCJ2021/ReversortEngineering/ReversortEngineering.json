@@ -1,31 +1,33 @@
 {
-  "name" : "A - Array with Odd Sum",
+  "name" : "ReversortEngineering",
   "testType" : "SINGLE",
   "input" : {
-    "type" : "STANDARD"
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
   },
   "output" : {
-    "type" : "STANDARD"
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "5\n2\n2 3\n4\n2 2 8 8\n3\n3 3 3\n4\n5 5 5 5\n4\n1 1 1 1\n",
-    "output" : "YES\nNO\nYES\nNO\nNO",
+    "input" : "1\n7 13",
     "index" : 0,
     "active" : true
   } ],
   "location" : "main/readman",
-  "vmArgs" : "-Xmx256M",
+  "vmArgs" : "-Xmx256m -Xss64m",
   "mainClass" : "Main",
-  "taskClass" : "readman.TaskA",
+  "taskClass" : "on2021_03.on2021_03_26_GCJ2021.ReversortEngineering.ReversortEngineering",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2020.02.05",
-  "contestName" : "Codeforces Round #617 (Div. 3)",
+  "date" : "2021.03.26",
+  "contestName" : "GCJ2021",
   "truncate" : true,
   "inputClass" : "net.egork.io.InputReader",
   "outputClass" : "net.egork.io.OutputWriter",
   "includeLocale" : false,
   "failOnOverflow" : false,
-  "interactive" : false
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
 }

@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archive/2020.02/2020.02.05 - Codeforces Round #617 (Div. 3)/F - Berland Beauty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.26 - GCJ2021/Reversort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.26 - GCJ2021/Reversort.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.27 - GCJ2021/MoonsandUmbrellas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.27 - GCJ2021/MoonsandUmbrellas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/Reversort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/Reversort/Reversort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/Reversort/Reversort.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_27_GCJ2021/MoonsandUmbrellas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_27_GCJ2021/MoonsandUmbrellas/MoonsandUmbrellas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_27_GCJ2021/MoonsandUmbrellas/MoonsandUmbrellas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/ReversortEngineering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/ReversortEngineering.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Array with Odd Sum.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/B - Food Buying.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Yet Another Walking Robot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/D - Fight with Monsters.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E1 - String Coloring (easy version).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E2 - String Coloring (hard version).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/F - Berland Beauty.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +70,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553810577259" />
@@ -54,6 +83,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -76,17 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -97,6 +116,17 @@
     <configuration name="A - Enlarge GCD" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -157,11 +187,33 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -222,11 +274,33 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -287,11 +361,33 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Igor In the Museum" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -352,11 +448,33 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Chocolate Bar" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -417,11 +535,33 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - Cut Length" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -508,7 +648,17 @@
       <workItem from="1581052897406" duration="94000" />
       <workItem from="1585491670977" duration="10000" />
       <workItem from="1585493818812" duration="33000" />
-      <workItem from="1597271646922" duration="2037000" />
+      <workItem from="1597271646922" duration="2707000" />
+      <workItem from="1597326124218" duration="15000" />
+      <workItem from="1597328780481" duration="599000" />
+      <workItem from="1597758535458" duration="12000" />
+      <workItem from="1616771206871" duration="3430000" />
+      <workItem from="1616777614989" duration="21703000" />
+      <workItem from="1617051948282" duration="10342000" />
+      <workItem from="1617198393202" duration="657000" />
+      <workItem from="1617245903446" duration="757000" />
+      <workItem from="1617284476454" duration="1000" />
+      <workItem from="1617330162319" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -608,7 +758,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597272476026</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="clean up">
+      <created>1597279064389</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1597279064389</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -664,19 +821,16 @@
     <MESSAGE value="clean up" />
     <option name="LAST_COMMIT_MESSAGE" value="clean up" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="709" y="363" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597272358403">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="709" y="363" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1597272358403" />
-    <state x="381" y="4" key="CommitChangelistDialog2" timestamp="1597272474658">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="381" y="4" key="CommitChangelistDialog2/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1597272474658" />
-    <state x="553" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597272496491">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="553" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/3840.0.2560.1080@0.0.1920.1040" timestamp="1597272496491" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/readman/ReversortEngineering.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

@@ -22,32 +22,64 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         OutputWriter out = new OutputWriter(outputStream);
-        TaskA solver = new TaskA();
+        ReversortEngineering solver = new ReversortEngineering();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class TaskA {
+    static class ReversortEngineering {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
-            int n = in.readInt();
-            for (int i = 0; i < n; i++) {
-                int m = in.readInt();
-                int even = 0;
-                for (int j = 0; j < m; j++) {
-                    int k = in.readInt();
-                    if (k % 2 == 0) {
-                        even++;
+            int k = in.readInt();
+            for (int i = 1; i <= k; i++) {
+                int n = in.readInt();
+                int c = in.readInt();
+                int[] r = ReverEng(n, c);
+                if (r == null)
+                    out.printLine("Case #" + i + ": IMPOSSIBLE");
+                else {
+                    out.print("Case #" + i + ": ");
+                    out.printLine(ReverEng(n, c));
+                }
+            }
+        }
+
+        private int[] ReverEng(int n, int c) {
+            if (!check(n, c))
+                return null;
+            int[] arr = new int[n];
+            for (int i = 1; i <= n; i++) {
+                arr[i - 1] = i;
+            }
+            for (int i = n - 2; i >= 0; i--) {
+                for (int len = n - i; len >= 1; len--) {
+                    if (check(i, n, c - len)) {
+                        rev(arr, i, i + len - 1);
+                        c -= len;
+                        break;
                     }
                 }
-                if (even == m) {
-                    out.printLine("NO");
-                } else if (m % 2 == 0 && even == 0) {
-                    out.printLine("NO");
-                } else {
-                    out.printLine("YES");
-                }
-
             }
+            return arr;
+        }
+
+        private boolean check(int n, int c) {
+            return n - 1 <= c && c <= (n) * (n + 1) / 2 - 1;
+        }
+
+        private boolean check(int p, int n, int c) {
+            return p <= c && c <= p * (2 * n - (p - 1)) / 2;
+        }
+
+        private void rev(int[] arr, int i, int j) {
+            while (i < j) {
+                swap(arr, i++, j--);
+            }
+        }
+
+        private void swap(int[] arr, int i, int j) {
+            int t = arr[i];
+            arr[i] = arr[j];
+            arr[j] = t;
         }
 
     }
@@ -139,6 +171,20 @@ public class Main {
                 }
                 writer.print(objects[i]);
             }
+        }
+
+        public void print(int[] array) {
+            for (int i = 0; i < array.length; i++) {
+                if (i != 0) {
+                    writer.print(' ');
+                }
+                writer.print(array[i]);
+            }
+        }
+
+        public void printLine(int[] array) {
+            print(array);
+            writer.println();
         }
 
         public void printLine(Object... objects) {
