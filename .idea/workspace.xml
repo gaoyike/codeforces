@@ -4,16 +4,19 @@
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.26 - GCJ2021/Reversort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.26 - GCJ2021/Reversort.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.26 - GCJ2021/ReversortEngineering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.26 - GCJ2021/ReversortEngineering.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.27 - GCJ2021/MoonsandUmbrellas.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/archive/2021.03/2021.03.27 - GCJ2021/MoonsandUmbrellas.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/Reversort/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/Reversort/Reversort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/Reversort/Reversort.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/ReversortEngineering/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/ReversortEngineering/ReversortEngineering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_26_GCJ2021/ReversortEngineering/ReversortEngineering.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_27_GCJ2021/MoonsandUmbrellas/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_27_GCJ2021/MoonsandUmbrellas/MoonsandUmbrellas.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/test/on2021_03/on2021_03_27_GCJ2021/MoonsandUmbrellas/MoonsandUmbrellas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/ReversortEngineering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/ReversortEngineering.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Array with Odd Sum.json" beforeDir="false" />
@@ -659,6 +662,7 @@
       <workItem from="1617245903446" duration="757000" />
       <workItem from="1617284476454" duration="1000" />
       <workItem from="1617330162319" duration="847000" />
+      <workItem from="1617374309087" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -765,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597279064389</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="gcj2021">
+      <created>1617374503208</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617374503208</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -819,18 +830,8 @@
     <MESSAGE value="solved C" />
     <MESSAGE value="solved A" />
     <MESSAGE value="clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/main/readman/ReversortEngineering.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="gcj2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="gcj2021" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

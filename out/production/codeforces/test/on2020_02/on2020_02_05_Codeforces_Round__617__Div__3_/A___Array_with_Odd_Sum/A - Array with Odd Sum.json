@@ -1,0 +1,31 @@
+{
+  "name" : "A - Array with Odd Sum",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD"
+  },
+  "output" : {
+    "type" : "STANDARD"
+  },
+  "tests" : [ {
+    "input" : "5\n2\n2 3\n4\n2 2 8 8\n3\n3 3 3\n4\n5 5 5 5\n4\n1 1 1 1\n",
+    "output" : "YES\nNO\nYES\nNO\nNO",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "main/readman",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "on2020_02.on2020_02_05_Codeforces_Round__617__Div__3_.A___Array_with_Odd_Sum.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.02.05",
+  "contestName" : "Codeforces Round #617 (Div. 3)",
+  "truncate" : true,
+  "inputClass" : "net.egork.io.InputReader",
+  "outputClass" : "net.egork.io.OutputWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false
+}
