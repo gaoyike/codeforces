@@ -17,7 +17,7 @@
   "location" : "main/readman",
   "vmArgs" : "-Xmx256m -Xss64m",
   "mainClass" : "Main",
-  "taskClass" : "readman.MoonsandUmbrellas",
+  "taskClass" : "on2021_03.on2021_03_27_GCJ2021.MoonsandUmbrellas1.MoonsandUmbrellas",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],

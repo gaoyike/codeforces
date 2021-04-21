@@ -3,11 +3,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
+import java.util.Arrays;
 import java.io.BufferedWriter;
-import java.io.Writer;
-import java.io.OutputStreamWriter;
 import java.util.InputMismatchException;
 import java.io.IOException;
+import java.io.Writer;
+import java.io.OutputStreamWriter;
 import java.io.InputStream;
 
 /**
@@ -22,64 +23,47 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         OutputWriter out = new OutputWriter(outputStream);
-        ReversortEngineering solver = new ReversortEngineering();
+        MoonsandUmbrellas solver = new MoonsandUmbrellas();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class ReversortEngineering {
+    static class MoonsandUmbrellas {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
             int k = in.readInt();
             for (int i = 1; i <= k; i++) {
-                int n = in.readInt();
-                int c = in.readInt();
-                int[] r = ReverEng(n, c);
-                if (r == null)
-                    out.printLine("Case #" + i + ": IMPOSSIBLE");
-                else {
-                    out.print("Case #" + i + ": ");
-                    out.printLine(ReverEng(n, c));
-                }
+                int x = in.readInt();
+                int y = in.readInt();
+                String s = in.readString();
+                out.printLine("Case #" + i + ": " + moonsAndUmbrellas(x, y, s));
             }
         }
 
-        private int[] ReverEng(int n, int c) {
-            if (!check(n, c))
-                return null;
-            int[] arr = new int[n];
-            for (int i = 1; i <= n; i++) {
-                arr[i - 1] = i;
+        private static int moonsAndUmbrellas(int x, int y, String s) {
+            Integer[][] dp = new Integer[s.length() + 1][2];
+            for (int i = 0; i < dp.length; i++) {
+                Arrays.fill(dp[i], Integer.MAX_VALUE / 2);
             }
-            for (int i = n - 2; i >= 0; i--) {
-                for (int len = n - i; len >= 1; len--) {
-                    if (check(i, n, c - len)) {
-                        rev(arr, i, i + len - 1);
-                        c -= len;
-                        break;
-                    }
-                }
+            return Math.min(find(1, 0, dp, s, x, y), find(0, 0, dp, s, x, y));
+        }
+
+        private static int find(int placed, int index, Integer[][] dp, String s, int X, int Y) {
+            if (dp[index][placed] != Integer.MAX_VALUE / 2) {
+                return dp[index][placed];
             }
-            return arr;
-        }
-
-        private boolean check(int n, int c) {
-            return n - 1 <= c && c <= (n) * (n + 1) / 2 - 1;
-        }
-
-        private boolean check(int p, int n, int c) {
-            return p <= c && c <= p * (2 * n - (p - 1)) / 2;
-        }
-
-        private void rev(int[] arr, int i, int j) {
-            while (i < j) {
-                swap(arr, i++, j--);
+            if (s.charAt(index) == 'C' && placed == 1 ||
+                    s.charAt(index) == 'J' && placed == 0
+            ) {
+                dp[index][placed] = Integer.MAX_VALUE / 2;
+                return dp[index][placed];
             }
-        }
-
-        private void swap(int[] arr, int i, int j) {
-            int t = arr[i];
-            arr[i] = arr[j];
-            arr[j] = t;
+            if (index == s.length() - 1)
+                return 0;
+            int cur = Integer.MAX_VALUE / 2;
+            cur = Math.min(cur, (placed == 1 ? Y : 0) + find(0, index + 1, dp, s, X, Y));
+            cur = Math.min(cur, (placed == 0 ? X : 0) + find(1, index + 1, dp, s, X, Y));
+            dp[index][placed] = cur;
+            return dp[index][placed];
         }
 
     }
@@ -135,6 +119,21 @@ public class Main {
             return res * sgn;
         }
 
+        public String readString() {
+            int c = read();
+            while (isSpaceChar(c)) {
+                c = read();
+            }
+            StringBuilder res = new StringBuilder();
+            do {
+                if (Character.isValidCodePoint(c)) {
+                    res.appendCodePoint(c);
+                }
+                c = read();
+            } while (!isSpaceChar(c));
+            return res.toString();
+        }
+
         public boolean isSpaceChar(int c) {
             if (filter != null) {
                 return filter.isSpaceChar(c);
@@ -171,20 +170,6 @@ public class Main {
                 }
                 writer.print(objects[i]);
             }
-        }
-
-        public void print(int[] array) {
-            for (int i = 0; i < array.length; i++) {
-                if (i != 0) {
-                    writer.print(' ');
-                }
-                writer.print(array[i]);
-            }
-        }
-
-        public void printLine(int[] array) {
-            print(array);
-            writer.println();
         }
 
         public void printLine(Object... objects) {
