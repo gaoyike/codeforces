@@ -1,4 +1,6 @@
-package readman;
+package on2021_03.on2021_03_26_GCJ2021.ReversortEngineering0;
+
+
 
 
 
@@ -18,7 +20,7 @@ public class ReversortEngineering {
                 out.printLine("Case #" + i +": IMPOSSIBLE");
             else {
                 out.print("Case #" + i + ": ");
-                out.printLine(ReverEng(n,c));
+                out.printLine(r);
             }
         }
     }

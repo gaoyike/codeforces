@@ -10,14 +10,14 @@
     "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "1\n7 13",
+    "input" : "1\n7 7\n",
     "index" : 0,
     "active" : true
   } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256m -Xss64m",
   "mainClass" : "Main",
-  "taskClass" : "readman.ReversortEngineering",
+  "taskClass" : "on2021_03.on2021_03_26_GCJ2021.ReversortEngineering0.ReversortEngineering",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],

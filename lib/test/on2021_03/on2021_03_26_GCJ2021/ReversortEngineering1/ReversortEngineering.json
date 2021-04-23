@@ -1,5 +1,5 @@
 {
-  "name" : "MoonsandUmbrellas",
+  "name" : "ReversortEngineering",
   "testType" : "SINGLE",
   "input" : {
     "type" : "STANDARD",
@@ -10,18 +10,18 @@
     "fileName" : "output.txt"
   },
   "tests" : [ {
-    "input" : "1\n2 5 CJ\n",
+    "input" : "1\n7 7\n",
     "index" : 0,
     "active" : true
   } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256m -Xss64m",
   "mainClass" : "Main",
-  "taskClass" : "readman.MoonsandUmbrellas",
+  "taskClass" : "on2021_03.on2021_03_26_GCJ2021.ReversortEngineering1.ReversortEngineering",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2021.03.27",
+  "date" : "2021.03.26",
   "contestName" : "GCJ2021",
   "truncate" : true,
   "inputClass" : "net.egork.io.InputReader",
