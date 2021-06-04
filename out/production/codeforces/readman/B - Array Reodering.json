@@ -1,0 +1,31 @@
+{
+  "name" : "B - Array Reodering",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD"
+  },
+  "output" : {
+    "type" : "STANDARD"
+  },
+  "tests" : [ {
+    "input" : "3\n4\n3 6 5 3\n2\n1 7\n5\n1 4 2 4 1",
+    "output" : "4\n0\n9",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "main/readman",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "readman.TaskB",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.06.04",
+  "contestName" : "Educational Codeforces Round 110 (Rated for Div. 2)",
+  "truncate" : true,
+  "inputClass" : "net.egork.io.InputReader",
+  "outputClass" : "net.egork.io.OutputWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false
+}
