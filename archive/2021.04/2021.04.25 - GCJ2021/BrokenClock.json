@@ -1,0 +1,34 @@
+{
+  "name" : "BrokenClock",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3\n0 0 0\n0 21600000000000 23400000000000\n1476000000000 2160000000000 3723000000000\n",
+    "output" : "Case #1: 0 0 0 0\nCase #2: 6 30 0 0\nCase #3: 1 2 3 0\n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "main/readman",
+  "vmArgs" : "-Xmx256m -Xss64m",
+  "mainClass" : "Main",
+  "taskClass" : "readman.BrokenClock",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2021.04.25",
+  "contestName" : "GCJ2021",
+  "truncate" : true,
+  "inputClass" : "net.egork.io.InputReader",
+  "outputClass" : "net.egork.io.OutputWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

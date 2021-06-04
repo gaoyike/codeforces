@@ -4,10 +4,13 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.BufferedWriter;
-import java.io.Writer;
-import java.io.OutputStreamWriter;
 import java.util.InputMismatchException;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.io.Writer;
+import java.io.OutputStreamWriter;
+import java.util.Collections;
 import java.io.InputStream;
 
 /**
@@ -22,109 +25,42 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         OutputWriter out = new OutputWriter(outputStream);
-        ReversortEngineering solver = new ReversortEngineering();
+        TaskB solver = new TaskB();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class ReversortEngineering {
+    static class TaskB {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
             int k = in.readInt();
-            for (int i = 1; i <= k; i++) {
-                int n = in.readInt();
-                int c = in.readInt();
-                int[] r = ReverEng(n, c);
-                if (r == null)
-                    out.printLine("Case #" + i + ": IMPOSSIBLE");
-                else {
-                    out.print("Case #" + i + ": ");
-                    out.printLine(r);
+            for (int i = 0; i < k; i++) {
+                int f = in.readInt();
+                out.printLine(solve(in.readIntArray(f)));
+            }
+        }
+
+        private int solve(int[] arr) {
+            int count = 0;
+            List<Integer> l1 = new ArrayList<>();
+            List<Integer> l2 = new ArrayList<>();
+            for (int a : arr) {
+                if (a % 2 == 0)
+                    l2.add(a);
+                else
+                    l1.add(a);
+            }
+            Collections.sort(l1, Collections.reverseOrder());
+            Collections.sort(l2, Collections.reverseOrder());
+            List<Integer> list = new ArrayList<>();
+            list.addAll(l2);
+            list.addAll(l1);
+            for (int i = 0; i < list.size(); i++) {
+                for (int j = i + 1; j < list.size(); j++) {
+                    if (IntegerUtils.gcd(list.get(i), list.get(j) * 2) > 1)
+                        count++;
                 }
             }
-        }
-
-        private int[] ReverEng(int n, int c) {
-            if (!check(n, c))
-                return null;
-            int[] arr = new int[n];
-            for (int i = 1; i <= n; i++) {
-                arr[i - 1] = i;
-            }
-            for (int i = n - 2; i >= 0; i--) {
-                for (int len = n - i; len >= 1; len--) {
-                    if (check(i, n, c - len)) {
-                        rev(arr, i, i + len - 1);
-                        c -= len;
-                        break;
-                    }
-                }
-            }
-            return arr;
-        }
-
-        private boolean check(int n, int c) {
-            return n - 1 <= c && c <= (n) * (n + 1) / 2 - 1;
-        }
-
-        private boolean check(int p, int n, int c) {
-            return p <= c && c <= p * (2 * n - (p - 1)) / 2;
-        }
-
-        private void rev(int[] arr, int i, int j) {
-            while (i < j) {
-                swap(arr, i++, j--);
-            }
-        }
-
-        private void swap(int[] arr, int i, int j) {
-            int t = arr[i];
-            arr[i] = arr[j];
-            arr[j] = t;
-        }
-
-    }
-
-    static class OutputWriter {
-        private final PrintWriter writer;
-
-        public OutputWriter(OutputStream outputStream) {
-            writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream)));
-        }
-
-        public OutputWriter(Writer writer) {
-            this.writer = new PrintWriter(writer);
-        }
-
-        public void print(Object... objects) {
-            for (int i = 0; i < objects.length; i++) {
-                if (i != 0) {
-                    writer.print(' ');
-                }
-                writer.print(objects[i]);
-            }
-        }
-
-        public void print(int[] array) {
-            for (int i = 0; i < array.length; i++) {
-                if (i != 0) {
-                    writer.print(' ');
-                }
-                writer.print(array[i]);
-            }
-        }
-
-        public void printLine(int[] array) {
-            print(array);
-            writer.println();
-        }
-
-        public void printLine(Object... objects) {
-            print(objects);
-            writer.println();
-        }
-
-        public void close() {
-            writer.close();
+            return count;
         }
 
     }
@@ -138,6 +74,14 @@ public class Main {
 
         public InputReader(InputStream stream) {
             this.stream = stream;
+        }
+
+        public int[] readIntArray(int size) {
+            int[] array = new int[size];
+            for (int i = 0; i < size; i++) {
+                array[i] = readInt();
+            }
+            return array;
         }
 
         public int read() {
@@ -194,6 +138,41 @@ public class Main {
         public interface SpaceCharFilter {
             public boolean isSpaceChar(int ch);
 
+        }
+
+    }
+
+    static class IntegerUtils {
+        public static int gcd(int a, int b) {
+            a = Math.abs(a);
+            b = Math.abs(b);
+            while (b != 0) {
+                int temp = a % b;
+                a = b;
+                b = temp;
+            }
+            return a;
+        }
+
+    }
+
+    static class OutputWriter {
+        private final PrintWriter writer;
+
+        public OutputWriter(OutputStream outputStream) {
+            writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream)));
+        }
+
+        public OutputWriter(Writer writer) {
+            this.writer = new PrintWriter(writer);
+        }
+
+        public void close() {
+            writer.close();
+        }
+
+        public void printLine(int i) {
+            writer.println(i);
         }
 
     }

@@ -1,33 +1,31 @@
 {
-  "name" : "ReversortEngineering",
+  "name" : "A - Fair Playoff",
   "testType" : "SINGLE",
   "input" : {
-    "type" : "STANDARD",
-    "fileName" : "input.txt"
+    "type" : "STANDARD"
   },
   "output" : {
-    "type" : "STANDARD",
-    "fileName" : "output.txt"
+    "type" : "STANDARD"
   },
   "tests" : [ {
-    "input" : "1\n7 7\n",
+    "input" : "4\n3 7 9 5\n4 5 6 9\n5 3 8 1\n6 5 3 2",
+    "output" : "",
     "index" : 0,
     "active" : true
   } ],
   "location" : "main/readman",
-  "vmArgs" : "-Xmx256m -Xss64m",
+  "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
-  "taskClass" : "readman.ReversortEngineering",
+  "taskClass" : "on2021_06.on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_.A___Fair_Playoff.TaskA",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2021.03.26",
-  "contestName" : "GCJ2021",
+  "date" : "2021.06.04",
+  "contestName" : "Educational Codeforces Round 110 (Rated for Div. 2)",
   "truncate" : true,
   "inputClass" : "net.egork.io.InputReader",
   "outputClass" : "net.egork.io.OutputWriter",
   "includeLocale" : false,
   "failOnOverflow" : false,
-  "interactive" : false,
-  "interactor" : "net.egork.chelper.tester.Interactor"
+  "interactive" : false
 }
