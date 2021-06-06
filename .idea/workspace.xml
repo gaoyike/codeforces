@@ -2,33 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archive/2021.04/2021.04.25 - GCJ2021/BrokenClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2021.04/2021.04.25 - GCJ2021/BrokenClock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/A - Fair Playoff.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/B - Array Reodering.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_04/on2021_04_25_GCJ2021/BrokenClock/BrokenClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_04/on2021_04_25_GCJ2021/BrokenClock/BrokenClock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_04/on2021_04_25_GCJ2021/BrokenClock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/A___Fair_Playoff/A - Fair Playoff.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/A___Fair_Playoff/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/A___Fair_Playoff/TaskA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/B___Array_Reodering/B - Array Reodering.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/B___Array_Reodering/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/B___Array_Reodering/TaskB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/C - Unstable String.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/D - Playoff Tournament.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/E - Gold Transfer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/F - String Distance.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/readman/TaskF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/TaskC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/ReversortEngineering.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/ReversortEngineering.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/C - Unstable String.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/C - Unstable String.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/D - Playoff Tournament.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/E - Gold Transfer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/F - String Distance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/TaskF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Fair Playoff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/B - Array Reodering.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Unstable String.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/C - Unstable String.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/D - Playoff Tournament.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E - Gold Transfer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/F - String Distance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskF.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +69,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDatabase.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553810577259" />
@@ -92,7 +91,7 @@
       <recent name="C:\Users\Chenguang He\Desktop\codeforces\lib\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Task.C - Unstable String">
+  <component name="RunManager" selected="Task.A - Enlarge GCD">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -101,17 +100,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,6 +114,7 @@
     <configuration name="A - Enlarge GCD" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -226,11 +215,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -331,11 +322,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -436,17 +429,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="C - Unstable String" type="Task" factoryName="Task">
-      <taskConf>main/readman/C - Unstable String.json</taskConf>
-      <method v="2">
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Igor In the Museum" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -547,11 +536,13 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Playoff Tournament" type="Task" factoryName="Task">
-      <taskConf>main/readman/D - Playoff Tournament.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
@@ -605,17 +596,20 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Gold Transfer" type="Task" factoryName="Task">
-      <taskConf>main/readman/E - Gold Transfer.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Little C Loves 3 III" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -716,17 +710,20 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - String Distance" type="Task" factoryName="Task">
-      <taskConf>main/readman/F - String Distance.json</taskConf>
+      <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="Task" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -810,7 +807,8 @@
       <workItem from="1619461834105" duration="4132000" />
       <workItem from="1620064898427" duration="599000" />
       <workItem from="1620789495126" duration="23000" />
-      <workItem from="1622787524076" duration="9852000" />
+      <workItem from="1622787524076" duration="12608000" />
+      <workItem from="1622940961253" duration="6463000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -945,7 +943,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619156296686</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Educational Codeforces Round 110 (Rated for Div. 2)">
+      <created>1622835755168</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1622835755168</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Educational Codeforces Round 110 (Rated for Div. 2)">
+      <created>1622835776510</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1622835776510</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1000,18 +1012,8 @@
     <MESSAGE value="solved A" />
     <MESSAGE value="clean up" />
     <MESSAGE value="gcj2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="gcj2021" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/main/readman/TaskC.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Educational Codeforces Round 110 (Rated for Div. 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Educational Codeforces Round 110 (Rated for Div. 2)" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

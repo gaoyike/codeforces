@@ -4,13 +4,10 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.BufferedWriter;
-import java.util.InputMismatchException;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.io.Writer;
 import java.io.OutputStreamWriter;
-import java.util.Collections;
+import java.util.InputMismatchException;
+import java.io.IOException;
 import java.io.InputStream;
 
 /**
@@ -25,42 +22,58 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         OutputWriter out = new OutputWriter(outputStream);
-        TaskB solver = new TaskB();
-        solver.solve(1, in, out);
+        TaskC solver = new TaskC();
+        int testCount = Integer.parseInt(in.next());
+        for (int i = 1; i <= testCount; i++)
+            solver.solve(i, in, out);
         out.close();
     }
 
-    static class TaskB {
+    static class TaskC {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
-            int k = in.readInt();
-            for (int i = 0; i < k; i++) {
-                int f = in.readInt();
-                out.printLine(solve(in.readIntArray(f)));
+            String s = in.readLine();
+            StringBuffer sb = new StringBuffer(s);
+            for (int i = 1; i < sb.length(); i += 2) {
+                if (sb.charAt(i) == '1')
+                    sb.setCharAt(i, '0');
+                else if (sb.charAt(i) == '0')
+                    sb.setCharAt(i, '1');
             }
+            long count = 0;
+            int[] cc = new int[255];
+            int left = 0;
+            int right = 0;
+            while (right < sb.length()) {
+                cc[sb.charAt(right++) - '0']++;
+                if (cc[0] != 0 && cc[1] != 0) { // if right pointer found first '1' or '0'
+                    while (cc[0] != 0 && cc[1] != 0) {
+                        cc[sb.charAt(left++) - '0']--;
+                    }
+                }
+                count += (right - left);
+            }
+            out.printLine(count);
         }
 
-        private int solve(int[] arr) {
-            int count = 0;
-            List<Integer> l1 = new ArrayList<>();
-            List<Integer> l2 = new ArrayList<>();
-            for (int a : arr) {
-                if (a % 2 == 0)
-                    l2.add(a);
-                else
-                    l1.add(a);
-            }
-            Collections.sort(l1, Collections.reverseOrder());
-            Collections.sort(l2, Collections.reverseOrder());
-            List<Integer> list = new ArrayList<>();
-            list.addAll(l2);
-            list.addAll(l1);
-            for (int i = 0; i < list.size(); i++) {
-                for (int j = i + 1; j < list.size(); j++) {
-                    if (IntegerUtils.gcd(list.get(i), list.get(j) * 2) > 1)
-                        count++;
-                }
-            }
-            return count;
+    }
+
+    static class OutputWriter {
+        private final PrintWriter writer;
+
+        public OutputWriter(OutputStream outputStream) {
+            writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream)));
+        }
+
+        public OutputWriter(Writer writer) {
+            this.writer = new PrintWriter(writer);
+        }
+
+        public void close() {
+            writer.close();
+        }
+
+        public void printLine(long i) {
+            writer.println(i);
         }
 
     }
@@ -74,14 +87,6 @@ public class Main {
 
         public InputReader(InputStream stream) {
             this.stream = stream;
-        }
-
-        public int[] readIntArray(int size) {
-            int[] array = new int[size];
-            for (int i = 0; i < size; i++) {
-                array[i] = readInt();
-            }
-            return array;
         }
 
         public int read() {
@@ -102,26 +107,19 @@ public class Main {
             return buf[curChar++];
         }
 
-        public int readInt() {
+        public String readString() {
             int c = read();
             while (isSpaceChar(c)) {
                 c = read();
             }
-            int sgn = 1;
-            if (c == '-') {
-                sgn = -1;
-                c = read();
-            }
-            int res = 0;
+            StringBuilder res = new StringBuilder();
             do {
-                if (c < '0' || c > '9') {
-                    throw new InputMismatchException();
+                if (Character.isValidCodePoint(c)) {
+                    res.appendCodePoint(c);
                 }
-                res *= 10;
-                res += c - '0';
                 c = read();
             } while (!isSpaceChar(c));
-            return res * sgn;
+            return res.toString();
         }
 
         public boolean isSpaceChar(int c) {
@@ -135,44 +133,33 @@ public class Main {
             return c == ' ' || c == '\n' || c == '\r' || c == '\t' || c == -1;
         }
 
+        private String readLine0() {
+            StringBuilder buf = new StringBuilder();
+            int c = read();
+            while (c != '\n' && c != -1) {
+                if (c != '\r') {
+                    buf.appendCodePoint(c);
+                }
+                c = read();
+            }
+            return buf.toString();
+        }
+
+        public String readLine() {
+            String s = readLine0();
+            while (s.trim().length() == 0) {
+                s = readLine0();
+            }
+            return s;
+        }
+
+        public String next() {
+            return readString();
+        }
+
         public interface SpaceCharFilter {
             public boolean isSpaceChar(int ch);
 
-        }
-
-    }
-
-    static class IntegerUtils {
-        public static int gcd(int a, int b) {
-            a = Math.abs(a);
-            b = Math.abs(b);
-            while (b != 0) {
-                int temp = a % b;
-                a = b;
-                b = temp;
-            }
-            return a;
-        }
-
-    }
-
-    static class OutputWriter {
-        private final PrintWriter writer;
-
-        public OutputWriter(OutputStream outputStream) {
-            writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream)));
-        }
-
-        public OutputWriter(Writer writer) {
-            this.writer = new PrintWriter(writer);
-        }
-
-        public void close() {
-            writer.close();
-        }
-
-        public void printLine(int i) {
-            writer.println(i);
         }
 
     }

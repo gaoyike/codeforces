@@ -1,13 +1,17 @@
 {
   "name" : "C - Unstable String",
-  "testType" : "SINGLE",
+  "testType" : "MULTI_NUMBER",
   "input" : {
     "type" : "STANDARD"
   },
   "output" : {
     "type" : "STANDARD"
   },
-  "tests" : [ ],
+  "tests" : [ {
+    "input" : "1\n101010",
+    "index" : 0,
+    "active" : true
+  } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
