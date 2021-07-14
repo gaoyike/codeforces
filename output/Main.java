@@ -4,10 +4,13 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.BufferedWriter;
-import java.io.Writer;
-import java.io.OutputStreamWriter;
 import java.util.InputMismatchException;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.io.Writer;
+import java.io.OutputStreamWriter;
+import java.util.Collections;
 import java.io.InputStream;
 
 /**
@@ -31,49 +34,47 @@ public class Main {
 
     static class TaskC {
         public void solve(int testNumber, InputReader in, OutputWriter out) {
-            String s = in.readLine();
-            StringBuffer sb = new StringBuffer(s);
-            for (int i = 1; i < sb.length(); i += 2) {
-                if (sb.charAt(i) == '1')
-                    sb.setCharAt(i, '0');
-                else if (sb.charAt(i) == '0')
-                    sb.setCharAt(i, '1');
+            int n = in.readInt();
+            int l = in.readInt();
+            int r = in.readInt();
+            int[] ary = in.readIntArray(n);
+            List<Integer> list = new ArrayList<>();
+            for (int a : ary)
+                list.add(a);
+            Collections.sort(list);
+            for (int i = 0; i < list.size(); i++) {
+                ary[i] = list.get(i);
             }
-            long count = 0;
-            int[] cc = new int[255];
-            int left = 0;
-            int right = 0;
-            while (right < sb.length()) {
-                cc[sb.charAt(right++) - '0']++;
-                if (cc[0] != 0 && cc[1] != 0) { // if right pointer found first '1' or '0'
-                    while (cc[0] != 0 && cc[1] != 0) {
-                        cc[sb.charAt(left++) - '0']--;
-                    }
-                }
-                count += (right - left);
+            long res = 0;
+            for (int i = 0; i < n; i++) {
+                int low = lowerBound(ary, l - ary[i]);
+                int up = upperBound(ary, r - ary[i]);
+                res -= low;
+                res += up;
+                if (l <= 2 * ary[i] && 2 * ary[i] <= r)
+                    res--;
             }
-            out.printLine(count);
+            out.printLine(res / 2);
         }
 
-    }
-
-    static class OutputWriter {
-        private final PrintWriter writer;
-
-        public OutputWriter(OutputStream outputStream) {
-            writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream)));
+        int lowerBound(int a[], int x) {
+            int l = -1, r = a.length;
+            while (l + 1 < r) {
+                int m = (l + r) >>> 1;
+                if (a[m] >= x) r = m;
+                else l = m;
+            }
+            return r;
         }
 
-        public OutputWriter(Writer writer) {
-            this.writer = new PrintWriter(writer);
-        }
-
-        public void close() {
-            writer.close();
-        }
-
-        public void printLine(long i) {
-            writer.println(i);
+        int upperBound(int a[], int x) {
+            int l = -1, r = a.length;
+            while (l + 1 < r) {
+                int m = (l + r) >>> 1;
+                if (a[m] <= x) l = m;
+                else r = m;
+            }
+            return l + 1;
         }
 
     }
@@ -87,6 +88,14 @@ public class Main {
 
         public InputReader(InputStream stream) {
             this.stream = stream;
+        }
+
+        public int[] readIntArray(int size) {
+            int[] array = new int[size];
+            for (int i = 0; i < size; i++) {
+                array[i] = readInt();
+            }
+            return array;
         }
 
         public int read() {
@@ -105,6 +114,28 @@ public class Main {
                 }
             }
             return buf[curChar++];
+        }
+
+        public int readInt() {
+            int c = read();
+            while (isSpaceChar(c)) {
+                c = read();
+            }
+            int sgn = 1;
+            if (c == '-') {
+                sgn = -1;
+                c = read();
+            }
+            int res = 0;
+            do {
+                if (c < '0' || c > '9') {
+                    throw new InputMismatchException();
+                }
+                res *= 10;
+                res += c - '0';
+                c = read();
+            } while (!isSpaceChar(c));
+            return res * sgn;
         }
 
         public String readString() {
@@ -133,26 +164,6 @@ public class Main {
             return c == ' ' || c == '\n' || c == '\r' || c == '\t' || c == -1;
         }
 
-        private String readLine0() {
-            StringBuilder buf = new StringBuilder();
-            int c = read();
-            while (c != '\n' && c != -1) {
-                if (c != '\r') {
-                    buf.appendCodePoint(c);
-                }
-                c = read();
-            }
-            return buf.toString();
-        }
-
-        public String readLine() {
-            String s = readLine0();
-            while (s.trim().length() == 0) {
-                s = readLine0();
-            }
-            return s;
-        }
-
         public String next() {
             return readString();
         }
@@ -160,6 +171,27 @@ public class Main {
         public interface SpaceCharFilter {
             public boolean isSpaceChar(int ch);
 
+        }
+
+    }
+
+    static class OutputWriter {
+        private final PrintWriter writer;
+
+        public OutputWriter(OutputStream outputStream) {
+            writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(outputStream)));
+        }
+
+        public OutputWriter(Writer writer) {
+            this.writer = new PrintWriter(writer);
+        }
+
+        public void close() {
+            writer.close();
+        }
+
+        public void printLine(long i) {
+            writer.println(i);
         }
 
     }

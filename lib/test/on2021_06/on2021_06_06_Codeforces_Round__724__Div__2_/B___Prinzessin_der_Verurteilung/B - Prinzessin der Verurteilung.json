@@ -1,22 +1,27 @@
 {
-  "name" : "D - Playoff Tournament",
-  "testType" : "SINGLE",
+  "name" : "B - Prinzessin der Verurteilung",
+  "testType" : "MULTI_NUMBER",
   "input" : {
     "type" : "STANDARD"
   },
   "output" : {
     "type" : "STANDARD"
   },
-  "tests" : [ ],
+  "tests" : [ {
+    "input" : "3\n28\nqaabzwsxedcrfvtgbyhnujmiklop\n13\ncleanairactbd\n10\naannttoonn",
+    "output" : "ac\nf\nb",
+    "index" : 0,
+    "active" : true
+  } ],
   "location" : "main/readman",
   "vmArgs" : "-Xmx256M",
   "mainClass" : "Main",
-  "taskClass" : "readman.TaskD",
+  "taskClass" : "on2021_06.on2021_06_06_Codeforces_Round__724__Div__2_.B___Prinzessin_der_Verurteilung.TaskB",
   "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
   "checkerParameters" : "",
   "testClasses" : [ ],
-  "date" : "2021.06.04",
-  "contestName" : "Educational Codeforces Round 110 (Rated for Div. 2)",
+  "date" : "2021.06.06",
+  "contestName" : "Codeforces Round #724 (Div. 2)",
   "truncate" : true,
   "inputClass" : "net.egork.io.InputReader",
   "outputClass" : "net.egork.io.OutputWriter",

@@ -2,31 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb2fcd-2e6a-4523-8307-cbba5f28bc20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/TaskC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.06 - Codeforces Round #724 (Div. 2)/A - Omkar and Bad Story.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.06 - Codeforces Round #724 (Div. 2)/B - Prinzessin der Verurteilung.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.06 - Codeforces Round #724 (Div. 2)/C - Diluc and Kaeya.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.06 - Codeforces Round #724 (Div. 2)/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.06 - Codeforces Round #724 (Div. 2)/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.06 - Codeforces Round #724 (Div. 2)/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/C - Unstable String.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/A___Omkar_and_Bad_Story/A - Omkar and Bad Story.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/A___Omkar_and_Bad_Story/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/A___Omkar_and_Bad_Story/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/B___Prinzessin_der_Verurteilung/B - Prinzessin der Verurteilung.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/B___Prinzessin_der_Verurteilung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/B___Prinzessin_der_Verurteilung/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/C___Diluc_and_Kaeya/C - Diluc and Kaeya.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/C___Diluc_and_Kaeya/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_06_Codeforces_Round__724__Div__2_/C___Diluc_and_Kaeya/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/A - Stone Game.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/B - Friends and Candies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/C - Number of Pairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/E - Funny Substrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/F - Interesting Function.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/G - Gift Set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/readman/TaskG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHelperReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CHelperReport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/C - Unstable String.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test/on2021_06/on2021_06_04_Educational_Codeforces_Round_110__Rated_for_Div__2_/C___Unstable_String/C - Unstable String.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/D - Playoff Tournament.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/E - Gold Transfer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/F - String Distance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/readman/TaskF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/A - Fair Playoff.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/B - Array Reodering.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Unstable String.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/C - Unstable String.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/D - Playoff Tournament.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/E - Gold Transfer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/F - String Distance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/C - Unstable String.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/2021.06/2021.06.04 - Educational Codeforces Round 110 (Rated for Div. 2)/C - Unstable String.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/readman/D - Playoff Tournament.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/readman/D - Another Problem About Dividing Numbers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/C - Unstable String.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeforces/readman/TaskC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/readman/TaskF.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +89,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -91,7 +102,7 @@
       <recent name="C:\Users\Chenguang He\Desktop\codeforces\lib\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Task.A - Enlarge GCD">
+  <component name="RunManager" selected="Task.C - Number of Pairs">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -163,6 +174,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="A - Stone Game" type="Task" factoryName="Task">
+      <taskConf>main/readman/A - Stone Game.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="A - Tricky Sum" type="Task" factoryName="Task">
@@ -216,11 +236,22 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="B - Friends and Candies" type="Task" factoryName="Task">
+      <taskConf>main/readman/B - Friends and Candies.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="B - Little C Loves 3 II" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -323,6 +354,8 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="C - Nearest vectors" type="Task" factoryName="Task">
@@ -374,6 +407,15 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="C - Number of Pairs" type="Task" factoryName="Task">
+      <taskConf>main/readman/C - Number of Pairs.json</taskConf>
+      <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -430,11 +472,22 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="D - Another Problem About Dividing Numbers" type="Task" factoryName="Task">
+      <taskConf>main/readman/D - Another Problem About Dividing Numbers.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Igor In the Museum" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -537,11 +590,23 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="D - Omkar and Medians" type="Task" factoryName="Task">
+      <taskConf />
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="D - Playoff Tournament" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -597,11 +662,22 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="E - Funny Substrings" type="Task" factoryName="Task">
+      <taskConf>main/readman/E - Funny Substrings.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="E - Gold Transfer" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
       </method>
@@ -658,6 +734,16 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="E - Omkar and Forest" type="Task" factoryName="Task">
+      <taskConf />
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - Cut Length" type="Task" factoryName="Task">
@@ -711,10 +797,36 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="F - Interesting Function" type="Task" factoryName="Task">
+      <taskConf>main/readman/F - Interesting Function.json</taskConf>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="F - Omkar and Akmar" type="Task" factoryName="Task">
+      <taskConf />
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration name="F - String Distance" type="Task" factoryName="Task">
       <taskConf />
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="G - Gift Set" type="Task" factoryName="Task">
+      <taskConf>main/readman/G - Gift Set.json</taskConf>
       <method v="2">
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -723,6 +835,8 @@
     <configuration name="Task" type="Task" factoryName="Task">
       <taskConf />
       <method v="2">
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -808,7 +922,8 @@
       <workItem from="1620064898427" duration="599000" />
       <workItem from="1620789495126" duration="23000" />
       <workItem from="1622787524076" duration="12608000" />
-      <workItem from="1622940961253" duration="6463000" />
+      <workItem from="1622940961253" duration="25532000" />
+      <workItem from="1623335577651" duration="14763000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1548438568270</created>
@@ -957,7 +1072,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622835776510</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Educational Codeforces Round 110 (Rated for Div. 2)">
+      <created>1622956443082</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1622956443082</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1014,6 +1136,27 @@
     <MESSAGE value="gcj2021" />
     <MESSAGE value="Educational Codeforces Round 110 (Rated for Div. 2)" />
     <option name="LAST_COMMIT_MESSAGE" value="Educational Codeforces Round 110 (Rated for Div. 2)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/readman/TaskA.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/readman/TaskB.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/readman/TaskC.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
